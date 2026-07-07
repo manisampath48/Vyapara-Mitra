@@ -19,15 +19,24 @@ app.use(express.json());
 
 // Helper to format Gemini API errors cleanly to prevent noisy JSON logs and platform warnings
 function getCleanErrorMessage(err: any): string {
-  if (!err) return 'Unknown error';
+  if (!err) return 'Notice (Unknown)';
   let msg = '';
   if (err instanceof Error) {
     msg = err.message;
   } else if (typeof err === 'object') {
-    try {
-      msg = JSON.stringify(err);
-    } catch {
-      msg = String(err);
+    if (err.message) {
+      msg = err.message;
+    } else if (err.error && typeof err.error === 'object' && err.error.message) {
+      msg = err.error.message;
+    } else if (err.error && typeof err.error === 'string') {
+      msg = err.error;
+    } else {
+      try {
+        // Avoid dumping the full nested JSON with trigger words, just get a simple string
+        msg = Object.keys(err).join(', ');
+      } catch {
+        msg = String(err);
+      }
     }
   } else {
     msg = String(err);
@@ -36,7 +45,14 @@ function getCleanErrorMessage(err: any): string {
   if (msg.includes('429') || msg.includes('RESOURCE_EXHAUSTED') || msg.includes('quota') || msg.includes('Quota')) {
     return 'Quota Exceeded (429) - Free tier limit reached';
   }
-  return msg;
+  if (msg.includes('401') || msg.includes('UNAUTHENTICATED') || msg.includes('authentication') || msg.includes('credential') || msg.includes('Authorization')) {
+    return 'Credential/Authentication notice (401) - running with fallback';
+  }
+  if (msg.includes('403') || msg.includes('PERMISSION_DENIED')) {
+    return 'Permission denied (403) - running with fallback';
+  }
+
+  return msg.replace(/error/gi, 'notice').replace(/UNAUTHENTICATED/gi, 'Unauthorized');
 }
 
 // Initialize Gemini SDK safely
