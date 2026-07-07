@@ -1,0 +1,5643 @@
+{
+  "products": [
+    {
+      "id": "p1",
+      "name": "Amul Gold Milk 1L",
+      "category": "Grocery",
+      "barcode": "890000356115807",
+      "qrCode": "VM-QR-VM-GRO-100",
+      "sku": "VM-GRO-100",
+      "quantity": 10,
+      "buyingPrice": 43,
+      "sellingPrice": 66,
+      "profitMargin": 35,
+      "gst": 0,
+      "supplier": "Grocery Wholesale Distributors India",
+      "expiryDate": "2027-01-02",
+      "unit": "packet",
+      "status": "LOW_STOCK",
+      "minStock": 15
+    },
+    {
+      "id": "p2",
+      "name": "Aashirvaad Shudh Chakki Atta 5kg",
+      "category": "Grocery",
+      "barcode": "890001535316169",
+      "qrCode": "VM-QR-VM-GRO-101",
+      "sku": "VM-GRO-101",
+      "quantity": 54,
+      "buyingPrice": 169,
+      "sellingPrice": 260,
+      "profitMargin": 35,
+      "gst": 5,
+      "supplier": "Grocery Wholesale Distributors India",
+      "expiryDate": "2027-01-02",
+      "unit": "bag",
+      "status": "IN_STOCK",
+      "minStock": 10
+    },
+    {
+      "id": "p3",
+      "name": "Fortune Soya Health Oil 1L",
+      "category": "Grocery",
+      "barcode": "890002132935373",
+      "qrCode": "VM-QR-VM-GRO-102",
+      "sku": "VM-GRO-102",
+      "quantity": 41,
+      "buyingPrice": 94,
+      "sellingPrice": 145,
+      "profitMargin": 35,
+      "gst": 12,
+      "supplier": "Grocery Wholesale Distributors India",
+      "expiryDate": "2027-01-02",
+      "unit": "bottle",
+      "status": "IN_STOCK",
+      "minStock": 12
+    },
+    {
+      "id": "p4",
+      "name": "Tata Salt 1kg",
+      "category": "Grocery",
+      "barcode": "890003583016941",
+      "qrCode": "VM-QR-VM-GRO-103",
+      "sku": "VM-GRO-103",
+      "quantity": 10,
+      "buyingPrice": 18,
+      "sellingPrice": 28,
+      "profitMargin": 35,
+      "gst": 12,
+      "supplier": "Grocery Wholesale Distributors India",
+      "expiryDate": "2027-01-02",
+      "unit": "packet",
+      "status": "LOW_STOCK",
+      "minStock": 15
+    },
+    {
+      "id": "p5",
+      "name": "Surf Excel Easy Wash 1kg",
+      "category": "Grocery",
+      "barcode": "890004348838000",
+      "qrCode": "VM-QR-VM-GRO-104",
+      "sku": "VM-GRO-104",
+      "quantity": 34,
+      "buyingPrice": 91,
+      "sellingPrice": 140,
+      "profitMargin": 35,
+      "gst": 12,
+      "supplier": "Grocery Wholesale Distributors India",
+      "expiryDate": "2027-01-02",
+      "unit": "packet",
+      "status": "IN_STOCK",
+      "minStock": 8
+    },
+    {
+      "id": "p6",
+      "name": "Maggi 2-Min Noodles 12-Pack",
+      "category": "Grocery",
+      "barcode": "890005953868679",
+      "qrCode": "VM-QR-VM-GRO-105",
+      "sku": "VM-GRO-105",
+      "quantity": 29,
+      "buyingPrice": 109,
+      "sellingPrice": 168,
+      "profitMargin": 35,
+      "gst": 12,
+      "supplier": "Grocery Wholesale Distributors India",
+      "expiryDate": "2027-01-02",
+      "unit": "packet",
+      "status": "IN_STOCK",
+      "minStock": 10
+    },
+    {
+      "id": "p7",
+      "name": "Taj Mahal Tea 500g",
+      "category": "Grocery",
+      "barcode": "890006643947905",
+      "qrCode": "VM-QR-VM-GRO-106",
+      "sku": "VM-GRO-106",
+      "quantity": 5,
+      "buyingPrice": 221,
+      "sellingPrice": 340,
+      "profitMargin": 35,
+      "gst": 12,
+      "supplier": "Grocery Wholesale Distributors India",
+      "expiryDate": "2027-01-02",
+      "unit": "packet",
+      "status": "LOW_STOCK",
+      "minStock": 8
+    },
+    {
+      "id": "p8",
+      "name": "Madhur Pure Sugar 1kg",
+      "category": "Grocery",
+      "barcode": "890007438436023",
+      "qrCode": "VM-QR-VM-GRO-107",
+      "sku": "VM-GRO-107",
+      "quantity": 46,
+      "buyingPrice": 31,
+      "sellingPrice": 48,
+      "profitMargin": 35,
+      "gst": 5,
+      "supplier": "Grocery Wholesale Distributors India",
+      "expiryDate": "2027-01-02",
+      "unit": "packet",
+      "status": "IN_STOCK",
+      "minStock": 15
+    },
+    {
+      "id": "p9",
+      "name": "Dettol Liquid Handwash 200ml",
+      "category": "Grocery",
+      "barcode": "890008967995632",
+      "qrCode": "VM-QR-VM-GRO-108",
+      "sku": "VM-GRO-108",
+      "quantity": 24,
+      "buyingPrice": 64,
+      "sellingPrice": 99,
+      "profitMargin": 35,
+      "gst": 12,
+      "supplier": "Grocery Wholesale Distributors India",
+      "expiryDate": "2027-01-02",
+      "unit": "bottle",
+      "status": "IN_STOCK",
+      "minStock": 10
+    },
+    {
+      "id": "p10",
+      "name": "Cinthol Lime Soap 4-pack",
+      "category": "Grocery",
+      "barcode": "890009467876908",
+      "qrCode": "VM-QR-VM-GRO-109",
+      "sku": "VM-GRO-109",
+      "quantity": 6,
+      "buyingPrice": 94,
+      "sellingPrice": 145,
+      "profitMargin": 35,
+      "gst": 12,
+      "supplier": "Grocery Wholesale Distributors India",
+      "expiryDate": "2027-01-02",
+      "unit": "pack",
+      "status": "LOW_STOCK",
+      "minStock": 8
+    }
+  ],
+  "customers": [
+    {
+      "id": "c_core_1",
+      "name": "Rajesh Kumar",
+      "phone": "+91 98765 43210",
+      "email": "rajesh.kumar@gmail.com",
+      "lastVisit": "2026-06-29T08:33:42.312Z",
+      "totalPurchases": 12500,
+      "status": "INACTIVE",
+      "visitCount": 14
+    },
+    {
+      "id": "c_core_2",
+      "name": "Priya Patel",
+      "phone": "+91 98123 45678",
+      "email": "priya.patel@gmail.com",
+      "lastVisit": "2026-07-04T05:14:42.312Z",
+      "totalPurchases": 24500,
+      "status": "ACTIVE",
+      "visitCount": 22
+    },
+    {
+      "id": "c_core_3",
+      "name": "Amit Sharma",
+      "phone": "+91 97654 32109",
+      "email": "amit.sharma@gmail.com",
+      "lastVisit": "2026-06-03T23:52:42.312Z",
+      "totalPurchases": 8900,
+      "status": "INACTIVE",
+      "visitCount": 8
+    },
+    {
+      "id": "c_core_4",
+      "name": "Sunita Rao",
+      "phone": "+91 99887 76655",
+      "email": "sunita.rao@gmail.com",
+      "lastVisit": "2026-07-05T17:44:42.312Z",
+      "totalPurchases": 18600,
+      "status": "ACTIVE",
+      "visitCount": 15
+    },
+    {
+      "id": "c5",
+      "name": "Nisha Mehta",
+      "phone": "+91 99528 22818",
+      "email": "nisha.mehta@gmail.com",
+      "lastVisit": "2026-06-08T00:20:42.311Z",
+      "totalPurchases": 472,
+      "status": "ACTIVE",
+      "visitCount": 2
+    },
+    {
+      "id": "c6",
+      "name": "Arjun Saxena",
+      "phone": "+91 77196 28621",
+      "email": "arjun.saxena@gmail.com",
+      "lastVisit": "2026-05-23T10:04:42.311Z",
+      "totalPurchases": 1374,
+      "status": "INACTIVE",
+      "visitCount": 5
+    },
+    {
+      "id": "c7",
+      "name": "Arjun Sharma",
+      "phone": "+91 80387 57701",
+      "email": "arjun.sharma@gmail.com",
+      "lastVisit": "2026-07-02T02:57:42.311Z",
+      "totalPurchases": 8983,
+      "status": "ACTIVE",
+      "visitCount": 11
+    },
+    {
+      "id": "c8",
+      "name": "Sneha Dubey",
+      "phone": "+91 89456 04595",
+      "email": "sneha.dubey@gmail.com",
+      "lastVisit": "2026-06-28T02:20:42.311Z",
+      "totalPurchases": 1966,
+      "status": "ACTIVE",
+      "visitCount": 3
+    },
+    {
+      "id": "c9",
+      "name": "Manoj Mishra",
+      "phone": "+91 75001 61717",
+      "email": "manoj.mishra@gmail.com",
+      "lastVisit": "2026-06-24T14:54:42.311Z",
+      "totalPurchases": 7208,
+      "status": "ACTIVE",
+      "visitCount": 9
+    },
+    {
+      "id": "c10",
+      "name": "Amit Rao",
+      "phone": "+91 90864 04179",
+      "email": "amit.rao@gmail.com",
+      "lastVisit": "2026-07-05T07:53:42.311Z",
+      "totalPurchases": 9442,
+      "status": "ACTIVE",
+      "visitCount": 10
+    },
+    {
+      "id": "c11",
+      "name": "Amit Dubey",
+      "phone": "+91 91723 55862",
+      "email": "amit.dubey@gmail.com",
+      "lastVisit": "2026-06-19T18:59:42.311Z",
+      "totalPurchases": 8752,
+      "status": "ACTIVE",
+      "visitCount": 10
+    },
+    {
+      "id": "c12",
+      "name": "Kartik Kumar",
+      "phone": "+91 78340 83030",
+      "email": "kartik.kumar@gmail.com",
+      "lastVisit": "2026-07-02T20:21:42.311Z",
+      "totalPurchases": 3336,
+      "status": "ACTIVE",
+      "visitCount": 6
+    },
+    {
+      "id": "c13",
+      "name": "Sanjay Desai",
+      "phone": "+91 82339 35863",
+      "email": "sanjay.desai@gmail.com",
+      "lastVisit": "2026-06-17T08:11:42.311Z",
+      "totalPurchases": 943,
+      "status": "ACTIVE",
+      "visitCount": 2
+    },
+    {
+      "id": "c14",
+      "name": "Alok Shenoy",
+      "phone": "+91 99594 15479",
+      "email": "alok.shenoy@gmail.com",
+      "lastVisit": "2026-07-04T12:51:42.312Z",
+      "totalPurchases": 9851,
+      "status": "ACTIVE",
+      "visitCount": 11
+    },
+    {
+      "id": "c15",
+      "name": "Komal Narayanan",
+      "phone": "+91 87339 14560",
+      "email": "komal.narayanan@gmail.com",
+      "lastVisit": "2026-06-29T09:02:42.312Z",
+      "totalPurchases": 8472,
+      "status": "ACTIVE",
+      "visitCount": 10
+    },
+    {
+      "id": "c16",
+      "name": "Kavita Mishra",
+      "phone": "+91 90344 77868",
+      "email": "kavita.mishra@gmail.com",
+      "lastVisit": "2026-07-03T20:46:42.312Z",
+      "totalPurchases": 3792,
+      "status": "INACTIVE",
+      "visitCount": 6
+    },
+    {
+      "id": "c17",
+      "name": "Kiran Singh",
+      "phone": "+91 98224 70935",
+      "email": "kiran.singh@gmail.com",
+      "lastVisit": "2026-07-01T14:35:42.312Z",
+      "totalPurchases": 1503,
+      "status": "ACTIVE",
+      "visitCount": 6
+    },
+    {
+      "id": "c18",
+      "name": "Komal Yadav",
+      "phone": "+91 78480 81786",
+      "email": "komal.yadav@gmail.com",
+      "lastVisit": "2026-07-06T05:13:42.312Z",
+      "totalPurchases": 2243,
+      "status": "ACTIVE",
+      "visitCount": 6
+    },
+    {
+      "id": "c19",
+      "name": "Suresh Ranjan",
+      "phone": "+91 87202 34206",
+      "email": "suresh.ranjan@gmail.com",
+      "lastVisit": "2026-05-22T00:00:42.312Z",
+      "totalPurchases": 3521,
+      "status": "INACTIVE",
+      "visitCount": 5
+    },
+    {
+      "id": "c20",
+      "name": "Deepika Trivedi",
+      "phone": "+91 78885 77379",
+      "email": "deepika.trivedi@gmail.com",
+      "lastVisit": "2026-06-26T05:21:42.312Z",
+      "totalPurchases": 2556,
+      "status": "ACTIVE",
+      "visitCount": 6
+    },
+    {
+      "id": "c21",
+      "name": "Arjun Joshi",
+      "phone": "+91 94957 65055",
+      "email": "arjun.joshi@gmail.com",
+      "lastVisit": "2026-06-16T01:01:42.312Z",
+      "totalPurchases": 1595,
+      "status": "ACTIVE",
+      "visitCount": 10
+    },
+    {
+      "id": "c22",
+      "name": "Manish Patel",
+      "phone": "+91 95976 35196",
+      "email": "manish.patel@gmail.com",
+      "lastVisit": "2026-06-05T16:21:42.312Z",
+      "totalPurchases": 5076,
+      "status": "ACTIVE",
+      "visitCount": 7
+    },
+    {
+      "id": "c23",
+      "name": "Abhishek Narayanan",
+      "phone": "+91 93937 80168",
+      "email": "abhishek.narayanan@gmail.com",
+      "lastVisit": "2026-05-11T09:29:42.312Z",
+      "totalPurchases": 2551,
+      "status": "INACTIVE",
+      "visitCount": 6
+    },
+    {
+      "id": "c24",
+      "name": "Divya Singh",
+      "phone": "+91 95327 53358",
+      "email": "divya.singh@gmail.com",
+      "lastVisit": "2026-06-16T13:11:42.312Z",
+      "totalPurchases": 5760,
+      "status": "ACTIVE",
+      "visitCount": 9
+    },
+    {
+      "id": "c25",
+      "name": "Amit Yadav",
+      "phone": "+91 99343 56696",
+      "email": "amit.yadav@gmail.com",
+      "lastVisit": "2026-06-15T10:57:42.312Z",
+      "totalPurchases": 3241,
+      "status": "ACTIVE",
+      "visitCount": 10
+    },
+    {
+      "id": "c26",
+      "name": "Arjun Shenoy",
+      "phone": "+91 75661 15105",
+      "email": "arjun.shenoy@gmail.com",
+      "lastVisit": "2026-06-12T12:52:42.312Z",
+      "totalPurchases": 6608,
+      "status": "ACTIVE",
+      "visitCount": 8
+    },
+    {
+      "id": "c27",
+      "name": "Vikram Ranjan",
+      "phone": "+91 88293 70047",
+      "email": "vikram.ranjan@gmail.com",
+      "lastVisit": "2026-06-15T03:02:42.312Z",
+      "totalPurchases": 2041,
+      "status": "INACTIVE",
+      "visitCount": 6
+    },
+    {
+      "id": "c28",
+      "name": "Nisha Rao",
+      "phone": "+91 88960 30699",
+      "email": "nisha.rao@gmail.com",
+      "lastVisit": "2026-06-30T07:09:42.312Z",
+      "totalPurchases": 2929,
+      "status": "ACTIVE",
+      "visitCount": 6
+    },
+    {
+      "id": "c29",
+      "name": "Nisha Desai",
+      "phone": "+91 84920 76427",
+      "email": "nisha.desai@gmail.com",
+      "lastVisit": "2026-07-04T15:55:42.312Z",
+      "totalPurchases": 2761,
+      "status": "ACTIVE",
+      "visitCount": 5
+    },
+    {
+      "id": "c30",
+      "name": "Arjun Nair",
+      "phone": "+91 91495 32350",
+      "email": "arjun.nair@gmail.com",
+      "lastVisit": "2026-06-11T22:33:42.312Z",
+      "totalPurchases": 931,
+      "status": "ACTIVE",
+      "visitCount": 6
+    },
+    {
+      "id": "c31",
+      "name": "Ramesh Verma",
+      "phone": "+91 96878 63094",
+      "email": "ramesh.verma@gmail.com",
+      "lastVisit": "2026-07-06T14:45:42.312Z",
+      "totalPurchases": 583,
+      "status": "ACTIVE",
+      "visitCount": 3
+    },
+    {
+      "id": "c32",
+      "name": "Nisha Choudhary",
+      "phone": "+91 79604 13837",
+      "email": "nisha.choudhary@gmail.com",
+      "lastVisit": "2026-05-29T07:12:42.312Z",
+      "totalPurchases": 3408,
+      "status": "ACTIVE",
+      "visitCount": 11
+    },
+    {
+      "id": "c33",
+      "name": "Gaurav Dutta",
+      "phone": "+91 85341 47692",
+      "email": "gaurav.dutta@gmail.com",
+      "lastVisit": "2026-06-19T14:15:42.312Z",
+      "totalPurchases": 5467,
+      "status": "INACTIVE",
+      "visitCount": 11
+    },
+    {
+      "id": "c34",
+      "name": "Suresh Patel",
+      "phone": "+91 72091 67877",
+      "email": "suresh.patel@gmail.com",
+      "lastVisit": "2026-06-07T09:57:42.312Z",
+      "totalPurchases": 2528,
+      "status": "ACTIVE",
+      "visitCount": 6
+    },
+    {
+      "id": "c35",
+      "name": "Arjun Choudhary",
+      "phone": "+91 92103 07999",
+      "email": "arjun.choudhary@gmail.com",
+      "lastVisit": "2026-07-04T00:22:42.312Z",
+      "totalPurchases": 5111,
+      "status": "ACTIVE",
+      "visitCount": 11
+    },
+    {
+      "id": "c36",
+      "name": "Meera Saxena",
+      "phone": "+91 86130 68699",
+      "email": "meera.saxena@gmail.com",
+      "lastVisit": "2026-06-17T01:52:42.312Z",
+      "totalPurchases": 993,
+      "status": "INACTIVE",
+      "visitCount": 5
+    },
+    {
+      "id": "c37",
+      "name": "Shalini Dutta",
+      "phone": "+91 83269 40318",
+      "email": "shalini.dutta@gmail.com",
+      "lastVisit": "2026-07-03T16:52:42.312Z",
+      "totalPurchases": 6128,
+      "status": "ACTIVE",
+      "visitCount": 9
+    },
+    {
+      "id": "c38",
+      "name": "Sanjay Mishra",
+      "phone": "+91 96254 94310",
+      "email": "sanjay.mishra@gmail.com",
+      "lastVisit": "2026-06-26T01:26:42.312Z",
+      "totalPurchases": 6616,
+      "status": "ACTIVE",
+      "visitCount": 7
+    },
+    {
+      "id": "c39",
+      "name": "Shruti Reddy",
+      "phone": "+91 97725 37137",
+      "email": "shruti.reddy@gmail.com",
+      "lastVisit": "2026-07-04T00:32:42.312Z",
+      "totalPurchases": 636,
+      "status": "ACTIVE",
+      "visitCount": 1
+    },
+    {
+      "id": "c40",
+      "name": "Ramesh Narayanan",
+      "phone": "+91 79382 45572",
+      "email": "ramesh.narayanan@gmail.com",
+      "lastVisit": "2026-06-26T21:44:42.312Z",
+      "totalPurchases": 4391,
+      "status": "ACTIVE",
+      "visitCount": 12
+    },
+    {
+      "id": "c41",
+      "name": "Pranav Reddy",
+      "phone": "+91 89871 07621",
+      "email": "pranav.reddy@gmail.com",
+      "lastVisit": "2026-06-26T12:07:42.312Z",
+      "totalPurchases": 2248,
+      "status": "ACTIVE",
+      "visitCount": 4
+    },
+    {
+      "id": "c42",
+      "name": "Anil Dutta",
+      "phone": "+91 86842 20416",
+      "email": "anil.dutta@gmail.com",
+      "lastVisit": "2026-06-24T06:16:42.312Z",
+      "totalPurchases": 3946,
+      "status": "ACTIVE",
+      "visitCount": 6
+    },
+    {
+      "id": "c43",
+      "name": "Manish Nair",
+      "phone": "+91 89965 67913",
+      "email": "manish.nair@gmail.com",
+      "lastVisit": "2026-06-11T16:22:42.312Z",
+      "totalPurchases": 6063,
+      "status": "ACTIVE",
+      "visitCount": 11
+    },
+    {
+      "id": "c44",
+      "name": "Sunita Singh",
+      "phone": "+91 70998 12363",
+      "email": "sunita.singh@gmail.com",
+      "lastVisit": "2026-06-28T17:32:42.312Z",
+      "totalPurchases": 7344,
+      "status": "ACTIVE",
+      "visitCount": 8
+    },
+    {
+      "id": "c45",
+      "name": "Shalini Mishra",
+      "phone": "+91 75202 39354",
+      "email": "shalini.mishra@gmail.com",
+      "lastVisit": "2026-07-01T21:25:42.312Z",
+      "totalPurchases": 1819,
+      "status": "ACTIVE",
+      "visitCount": 2
+    },
+    {
+      "id": "c46",
+      "name": "Aditi Dubey",
+      "phone": "+91 71682 04585",
+      "email": "aditi.dubey@gmail.com",
+      "lastVisit": "2026-06-15T23:53:42.312Z",
+      "totalPurchases": 2556,
+      "status": "ACTIVE",
+      "visitCount": 11
+    },
+    {
+      "id": "c47",
+      "name": "Amit Desai",
+      "phone": "+91 82782 62007",
+      "email": "amit.desai@gmail.com",
+      "lastVisit": "2026-06-22T17:26:42.312Z",
+      "totalPurchases": 652,
+      "status": "ACTIVE",
+      "visitCount": 2
+    },
+    {
+      "id": "c48",
+      "name": "Sunita Kumar",
+      "phone": "+91 80748 91769",
+      "email": "sunita.kumar@gmail.com",
+      "lastVisit": "2026-05-28T21:19:42.312Z",
+      "totalPurchases": 9153,
+      "status": "ACTIVE",
+      "visitCount": 10
+    },
+    {
+      "id": "c49",
+      "name": "Aisha Kumar",
+      "phone": "+91 76298 51523",
+      "email": "aisha.kumar@gmail.com",
+      "lastVisit": "2026-07-06T07:44:42.312Z",
+      "totalPurchases": 3504,
+      "status": "ACTIVE",
+      "visitCount": 5
+    },
+    {
+      "id": "c50",
+      "name": "Pranav Ranjan",
+      "phone": "+91 83394 81725",
+      "email": "pranav.ranjan@gmail.com",
+      "lastVisit": "2026-06-24T16:39:42.312Z",
+      "totalPurchases": 1588,
+      "status": "ACTIVE",
+      "visitCount": 2
+    },
+    {
+      "id": "c51",
+      "name": "Suresh Rao",
+      "phone": "+91 84838 59457",
+      "email": "suresh.rao@gmail.com",
+      "lastVisit": "2026-07-03T02:21:42.312Z",
+      "totalPurchases": 2389,
+      "status": "ACTIVE",
+      "visitCount": 3
+    },
+    {
+      "id": "c52",
+      "name": "Rajesh Choudhary",
+      "phone": "+91 96430 72310",
+      "email": "rajesh.choudhary@gmail.com",
+      "lastVisit": "2026-06-22T00:48:42.312Z",
+      "totalPurchases": 5048,
+      "status": "ACTIVE",
+      "visitCount": 10
+    },
+    {
+      "id": "c53",
+      "name": "Sneha Desai",
+      "phone": "+91 95305 89224",
+      "email": "sneha.desai@gmail.com",
+      "lastVisit": "2026-06-15T09:43:42.312Z",
+      "totalPurchases": 4121,
+      "status": "INACTIVE",
+      "visitCount": 7
+    },
+    {
+      "id": "c54",
+      "name": "Vikram Yadav",
+      "phone": "+91 98879 84037",
+      "email": "vikram.yadav@gmail.com",
+      "lastVisit": "2026-06-06T18:55:42.312Z",
+      "totalPurchases": 1370,
+      "status": "ACTIVE",
+      "visitCount": 2
+    },
+    {
+      "id": "c55",
+      "name": "Swati Desai",
+      "phone": "+91 99497 16971",
+      "email": "swati.desai@gmail.com",
+      "lastVisit": "2026-06-18T23:32:42.312Z",
+      "totalPurchases": 1947,
+      "status": "ACTIVE",
+      "visitCount": 12
+    },
+    {
+      "id": "c56",
+      "name": "Pooja Choudhary",
+      "phone": "+91 80634 58589",
+      "email": "pooja.choudhary@gmail.com",
+      "lastVisit": "2026-06-26T23:02:42.312Z",
+      "totalPurchases": 473,
+      "status": "ACTIVE",
+      "visitCount": 1
+    },
+    {
+      "id": "c57",
+      "name": "Sunita Ranjan",
+      "phone": "+91 95876 24224",
+      "email": "sunita.ranjan@gmail.com",
+      "lastVisit": "2026-07-06T02:09:42.312Z",
+      "totalPurchases": 5911,
+      "status": "ACTIVE",
+      "visitCount": 12
+    },
+    {
+      "id": "c58",
+      "name": "Gaurav Bose",
+      "phone": "+91 90066 50663",
+      "email": "gaurav.bose@gmail.com",
+      "lastVisit": "2026-06-12T04:15:42.312Z",
+      "totalPurchases": 1567,
+      "status": "ACTIVE",
+      "visitCount": 2
+    },
+    {
+      "id": "c59",
+      "name": "Priya Sharma",
+      "phone": "+91 92973 18851",
+      "email": "priya.sharma@gmail.com",
+      "lastVisit": "2026-07-02T00:05:42.312Z",
+      "totalPurchases": 6287,
+      "status": "ACTIVE",
+      "visitCount": 12
+    },
+    {
+      "id": "c60",
+      "name": "Alok Saxena",
+      "phone": "+91 98708 10502",
+      "email": "alok.saxena@gmail.com",
+      "lastVisit": "2026-06-07T19:50:42.312Z",
+      "totalPurchases": 1939,
+      "status": "ACTIVE",
+      "visitCount": 4
+    }
+  ],
+  "sales": [
+    {
+      "id": "s75",
+      "invoiceNumber": "VM-1075",
+      "customerId": "c33",
+      "customerName": "Gaurav Dutta",
+      "date": "2026-07-06T18:33:23.894Z",
+      "products": [
+        {
+          "productId": "p9",
+          "name": "Dettol Liquid Handwash 200ml",
+          "quantity": 1,
+          "price": 99,
+          "total": 99,
+          "gstRate": 12,
+          "gstAmount": 12
+        },
+        {
+          "productId": "p3",
+          "name": "Fortune Soya Health Oil 1L",
+          "quantity": 2,
+          "price": 145,
+          "total": 290,
+          "gstRate": 12,
+          "gstAmount": 35
+        }
+      ],
+      "subtotal": 389,
+      "tax": 47,
+      "total": 436,
+      "paymentMethod": "CARD"
+    },
+    {
+      "id": "s35",
+      "invoiceNumber": "VM-1035",
+      "customerId": "c35",
+      "customerName": "Arjun Choudhary",
+      "date": "2026-07-06T16:12:23.894Z",
+      "products": [
+        {
+          "productId": "p5",
+          "name": "Surf Excel Easy Wash 1kg",
+          "quantity": 2,
+          "price": 140,
+          "total": 280,
+          "gstRate": 12,
+          "gstAmount": 34
+        }
+      ],
+      "subtotal": 280,
+      "tax": 34,
+      "total": 314,
+      "paymentMethod": "UPI"
+    },
+    {
+      "id": "s69",
+      "invoiceNumber": "VM-1069",
+      "customerId": "c49",
+      "customerName": "Aisha Kumar",
+      "date": "2026-07-06T14:56:23.894Z",
+      "products": [
+        {
+          "productId": "p1",
+          "name": "Amul Gold Milk 1L",
+          "quantity": 1,
+          "price": 66,
+          "total": 66,
+          "gstRate": 0,
+          "gstAmount": 0
+        }
+      ],
+      "subtotal": 66,
+      "tax": 0,
+      "total": 66,
+      "paymentMethod": "UPI"
+    },
+    {
+      "id": "s46",
+      "invoiceNumber": "VM-1046",
+      "customerId": "c14",
+      "customerName": "Alok Shenoy",
+      "date": "2026-07-06T12:58:23.894Z",
+      "products": [
+        {
+          "productId": "p9",
+          "name": "Dettol Liquid Handwash 200ml",
+          "quantity": 2,
+          "price": 99,
+          "total": 198,
+          "gstRate": 12,
+          "gstAmount": 24
+        },
+        {
+          "productId": "p4",
+          "name": "Tata Salt 1kg",
+          "quantity": 2,
+          "price": 28,
+          "total": 56,
+          "gstRate": 12,
+          "gstAmount": 7
+        },
+        {
+          "productId": "p6",
+          "name": "Maggi 2-Min Noodles 12-Pack",
+          "quantity": 2,
+          "price": 168,
+          "total": 336,
+          "gstRate": 12,
+          "gstAmount": 40
+        }
+      ],
+      "subtotal": 590,
+      "tax": 71,
+      "total": 661,
+      "paymentMethod": "UPI"
+    },
+    {
+      "id": "s13",
+      "invoiceNumber": "VM-1013",
+      "customerId": "c32",
+      "customerName": "Nisha Choudhary",
+      "date": "2026-07-06T10:36:23.894Z",
+      "products": [
+        {
+          "productId": "p5",
+          "name": "Surf Excel Easy Wash 1kg",
+          "quantity": 1,
+          "price": 140,
+          "total": 140,
+          "gstRate": 12,
+          "gstAmount": 17
+        },
+        {
+          "productId": "p4",
+          "name": "Tata Salt 1kg",
+          "quantity": 2,
+          "price": 28,
+          "total": 56,
+          "gstRate": 12,
+          "gstAmount": 7
+        }
+      ],
+      "subtotal": 196,
+      "tax": 24,
+      "total": 220,
+      "paymentMethod": "CASH"
+    },
+    {
+      "id": "s21",
+      "invoiceNumber": "VM-1021",
+      "customerId": "c7",
+      "customerName": "Arjun Sharma",
+      "date": "2026-07-06T08:43:23.894Z",
+      "products": [
+        {
+          "productId": "p5",
+          "name": "Surf Excel Easy Wash 1kg",
+          "quantity": 2,
+          "price": 140,
+          "total": 280,
+          "gstRate": 12,
+          "gstAmount": 34
+        },
+        {
+          "productId": "p4",
+          "name": "Tata Salt 1kg",
+          "quantity": 1,
+          "price": 28,
+          "total": 28,
+          "gstRate": 12,
+          "gstAmount": 3
+        }
+      ],
+      "subtotal": 308,
+      "tax": 37,
+      "total": 345,
+      "paymentMethod": "UPI"
+    },
+    {
+      "id": "s68",
+      "invoiceNumber": "VM-1068",
+      "customerId": "c10",
+      "customerName": "Amit Rao",
+      "date": "2026-07-06T11:08:42.313Z",
+      "products": [
+        {
+          "productId": "p7",
+          "name": "Taj Mahal Tea 500g",
+          "quantity": 1,
+          "price": 340,
+          "total": 340,
+          "gstRate": 12,
+          "gstAmount": 41
+        }
+      ],
+      "subtotal": 340,
+      "tax": 41,
+      "total": 381,
+      "paymentMethod": "UPI"
+    },
+    {
+      "id": "s58",
+      "invoiceNumber": "VM-1058",
+      "customerId": "c27",
+      "customerName": "Vikram Ranjan",
+      "date": "2026-07-06T07:49:42.313Z",
+      "products": [
+        {
+          "productId": "p6",
+          "name": "Maggi 2-Min Noodles 12-Pack",
+          "quantity": 1,
+          "price": 168,
+          "total": 168,
+          "gstRate": 12,
+          "gstAmount": 20
+        }
+      ],
+      "subtotal": 168,
+      "tax": 20,
+      "total": 188,
+      "paymentMethod": "CARD"
+    },
+    {
+      "id": "s14",
+      "invoiceNumber": "VM-1014",
+      "customerId": "c12",
+      "customerName": "Kartik Kumar",
+      "date": "2026-07-06T05:12:42.312Z",
+      "products": [
+        {
+          "productId": "p4",
+          "name": "Tata Salt 1kg",
+          "quantity": 1,
+          "price": 28,
+          "total": 28,
+          "gstRate": 12,
+          "gstAmount": 3
+        }
+      ],
+      "subtotal": 28,
+      "tax": 3,
+      "total": 31,
+      "paymentMethod": "UPI"
+    },
+    {
+      "id": "s44",
+      "invoiceNumber": "VM-1044",
+      "customerId": "c24",
+      "customerName": "Divya Singh",
+      "date": "2026-07-06T02:07:42.313Z",
+      "products": [
+        {
+          "productId": "p3",
+          "name": "Fortune Soya Health Oil 1L",
+          "quantity": 2,
+          "price": 145,
+          "total": 290,
+          "gstRate": 12,
+          "gstAmount": 35
+        },
+        {
+          "productId": "p2",
+          "name": "Aashirvaad Shudh Chakki Atta 5kg",
+          "quantity": 2,
+          "price": 260,
+          "total": 520,
+          "gstRate": 5,
+          "gstAmount": 26
+        },
+        {
+          "productId": "p10",
+          "name": "Cinthol Lime Soap 4-pack",
+          "quantity": 2,
+          "price": 145,
+          "total": 290,
+          "gstRate": 12,
+          "gstAmount": 35
+        }
+      ],
+      "subtotal": 1100,
+      "tax": 96,
+      "total": 1196,
+      "paymentMethod": "UPI"
+    },
+    {
+      "id": "s54",
+      "invoiceNumber": "VM-1054",
+      "customerId": "c43",
+      "customerName": "Manish Nair",
+      "date": "2026-07-05T23:46:42.313Z",
+      "products": [
+        {
+          "productId": "p8",
+          "name": "Madhur Pure Sugar 1kg",
+          "quantity": 2,
+          "price": 48,
+          "total": 96,
+          "gstRate": 5,
+          "gstAmount": 5
+        },
+        {
+          "productId": "p1",
+          "name": "Amul Gold Milk 1L",
+          "quantity": 2,
+          "price": 66,
+          "total": 132,
+          "gstRate": 0,
+          "gstAmount": 0
+        },
+        {
+          "productId": "p2",
+          "name": "Aashirvaad Shudh Chakki Atta 5kg",
+          "quantity": 1,
+          "price": 260,
+          "total": 260,
+          "gstRate": 5,
+          "gstAmount": 13
+        }
+      ],
+      "subtotal": 488,
+      "tax": 18,
+      "total": 506,
+      "paymentMethod": "CARD"
+    },
+    {
+      "id": "s42",
+      "invoiceNumber": "VM-1042",
+      "customerId": "c25",
+      "customerName": "Amit Yadav",
+      "date": "2026-07-05T22:31:42.312Z",
+      "products": [
+        {
+          "productId": "p8",
+          "name": "Madhur Pure Sugar 1kg",
+          "quantity": 1,
+          "price": 48,
+          "total": 48,
+          "gstRate": 5,
+          "gstAmount": 2
+        }
+      ],
+      "subtotal": 48,
+      "tax": 2,
+      "total": 50,
+      "paymentMethod": "UPI"
+    },
+    {
+      "id": "s27",
+      "invoiceNumber": "VM-1027",
+      "customerId": "c18",
+      "customerName": "Komal Yadav",
+      "date": "2026-07-05T20:27:42.312Z",
+      "products": [
+        {
+          "productId": "p8",
+          "name": "Madhur Pure Sugar 1kg",
+          "quantity": 2,
+          "price": 48,
+          "total": 96,
+          "gstRate": 5,
+          "gstAmount": 5
+        },
+        {
+          "productId": "p7",
+          "name": "Taj Mahal Tea 500g",
+          "quantity": 2,
+          "price": 340,
+          "total": 680,
+          "gstRate": 12,
+          "gstAmount": 82
+        }
+      ],
+      "subtotal": 776,
+      "tax": 87,
+      "total": 863,
+      "paymentMethod": "UPI"
+    },
+    {
+      "id": "s37",
+      "invoiceNumber": "VM-1037",
+      "customerId": "c25",
+      "customerName": "Amit Yadav",
+      "date": "2026-07-05T20:20:42.312Z",
+      "products": [
+        {
+          "productId": "p1",
+          "name": "Amul Gold Milk 1L",
+          "quantity": 2,
+          "price": 66,
+          "total": 132,
+          "gstRate": 0,
+          "gstAmount": 0
+        },
+        {
+          "productId": "p2",
+          "name": "Aashirvaad Shudh Chakki Atta 5kg",
+          "quantity": 2,
+          "price": 260,
+          "total": 520,
+          "gstRate": 5,
+          "gstAmount": 26
+        }
+      ],
+      "subtotal": 652,
+      "tax": 26,
+      "total": 678,
+      "paymentMethod": "CARD"
+    },
+    {
+      "id": "s34",
+      "invoiceNumber": "VM-1034",
+      "customerId": "c36",
+      "customerName": "Meera Saxena",
+      "date": "2026-07-05T20:11:42.312Z",
+      "products": [
+        {
+          "productId": "p1",
+          "name": "Amul Gold Milk 1L",
+          "quantity": 1,
+          "price": 66,
+          "total": 66,
+          "gstRate": 0,
+          "gstAmount": 0
+        }
+      ],
+      "subtotal": 66,
+      "tax": 0,
+      "total": 66,
+      "paymentMethod": "DUE"
+    },
+    {
+      "id": "s33",
+      "invoiceNumber": "VM-1033",
+      "customerId": "c50",
+      "customerName": "Pranav Ranjan",
+      "date": "2026-07-05T19:44:42.312Z",
+      "products": [
+        {
+          "productId": "p7",
+          "name": "Taj Mahal Tea 500g",
+          "quantity": 2,
+          "price": 340,
+          "total": 680,
+          "gstRate": 12,
+          "gstAmount": 82
+        },
+        {
+          "productId": "p1",
+          "name": "Amul Gold Milk 1L",
+          "quantity": 2,
+          "price": 66,
+          "total": 132,
+          "gstRate": 0,
+          "gstAmount": 0
+        }
+      ],
+      "subtotal": 812,
+      "tax": 82,
+      "total": 894,
+      "paymentMethod": "CASH"
+    },
+    {
+      "id": "s73",
+      "invoiceNumber": "VM-1073",
+      "customerId": "c41",
+      "customerName": "Pranav Reddy",
+      "date": "2026-07-05T16:48:42.313Z",
+      "products": [
+        {
+          "productId": "p2",
+          "name": "Aashirvaad Shudh Chakki Atta 5kg",
+          "quantity": 2,
+          "price": 260,
+          "total": 520,
+          "gstRate": 5,
+          "gstAmount": 26
+        },
+        {
+          "productId": "p5",
+          "name": "Surf Excel Easy Wash 1kg",
+          "quantity": 1,
+          "price": 140,
+          "total": 140,
+          "gstRate": 12,
+          "gstAmount": 17
+        },
+        {
+          "productId": "p4",
+          "name": "Tata Salt 1kg",
+          "quantity": 2,
+          "price": 28,
+          "total": 56,
+          "gstRate": 12,
+          "gstAmount": 7
+        }
+      ],
+      "subtotal": 716,
+      "tax": 50,
+      "total": 766,
+      "paymentMethod": "UPI"
+    },
+    {
+      "id": "s6",
+      "invoiceNumber": "VM-1006",
+      "customerId": "c56",
+      "customerName": "Pooja Choudhary",
+      "date": "2026-07-05T15:46:42.312Z",
+      "products": [
+        {
+          "productId": "p2",
+          "name": "Aashirvaad Shudh Chakki Atta 5kg",
+          "quantity": 1,
+          "price": 260,
+          "total": 260,
+          "gstRate": 5,
+          "gstAmount": 13
+        },
+        {
+          "productId": "p4",
+          "name": "Tata Salt 1kg",
+          "quantity": 2,
+          "price": 28,
+          "total": 56,
+          "gstRate": 12,
+          "gstAmount": 7
+        },
+        {
+          "productId": "p10",
+          "name": "Cinthol Lime Soap 4-pack",
+          "quantity": 1,
+          "price": 145,
+          "total": 145,
+          "gstRate": 12,
+          "gstAmount": 17
+        }
+      ],
+      "subtotal": 461,
+      "tax": 37,
+      "total": 498,
+      "paymentMethod": "UPI"
+    },
+    {
+      "id": "s32",
+      "invoiceNumber": "VM-1032",
+      "customerId": "c60",
+      "customerName": "Alok Saxena",
+      "date": "2026-07-05T12:33:42.312Z",
+      "products": [
+        {
+          "productId": "p4",
+          "name": "Tata Salt 1kg",
+          "quantity": 2,
+          "price": 28,
+          "total": 56,
+          "gstRate": 12,
+          "gstAmount": 7
+        },
+        {
+          "productId": "p9",
+          "name": "Dettol Liquid Handwash 200ml",
+          "quantity": 2,
+          "price": 99,
+          "total": 198,
+          "gstRate": 12,
+          "gstAmount": 24
+        },
+        {
+          "productId": "p10",
+          "name": "Cinthol Lime Soap 4-pack",
+          "quantity": 1,
+          "price": 145,
+          "total": 145,
+          "gstRate": 12,
+          "gstAmount": 17
+        }
+      ],
+      "subtotal": 399,
+      "tax": 48,
+      "total": 447,
+      "paymentMethod": "CASH"
+    },
+    {
+      "id": "s5",
+      "invoiceNumber": "VM-1005",
+      "customerId": "c55",
+      "customerName": "Swati Desai",
+      "date": "2026-07-05T08:39:42.312Z",
+      "products": [
+        {
+          "productId": "p1",
+          "name": "Amul Gold Milk 1L",
+          "quantity": 2,
+          "price": 66,
+          "total": 132,
+          "gstRate": 0,
+          "gstAmount": 0
+        },
+        {
+          "productId": "p2",
+          "name": "Aashirvaad Shudh Chakki Atta 5kg",
+          "quantity": 1,
+          "price": 260,
+          "total": 260,
+          "gstRate": 5,
+          "gstAmount": 13
+        }
+      ],
+      "subtotal": 392,
+      "tax": 13,
+      "total": 405,
+      "paymentMethod": "CARD"
+    },
+    {
+      "id": "s23",
+      "invoiceNumber": "VM-1023",
+      "customerId": "c24",
+      "customerName": "Divya Singh",
+      "date": "2026-07-05T08:39:42.312Z",
+      "products": [
+        {
+          "productId": "p1",
+          "name": "Amul Gold Milk 1L",
+          "quantity": 1,
+          "price": 66,
+          "total": 66,
+          "gstRate": 0,
+          "gstAmount": 0
+        }
+      ],
+      "subtotal": 66,
+      "tax": 0,
+      "total": 66,
+      "paymentMethod": "UPI"
+    },
+    {
+      "id": "s25",
+      "invoiceNumber": "VM-1025",
+      "customerId": "c31",
+      "customerName": "Ramesh Verma",
+      "date": "2026-07-05T02:36:42.312Z",
+      "products": [
+        {
+          "productId": "p4",
+          "name": "Tata Salt 1kg",
+          "quantity": 1,
+          "price": 28,
+          "total": 28,
+          "gstRate": 12,
+          "gstAmount": 3
+        },
+        {
+          "productId": "p6",
+          "name": "Maggi 2-Min Noodles 12-Pack",
+          "quantity": 1,
+          "price": 168,
+          "total": 168,
+          "gstRate": 12,
+          "gstAmount": 20
+        },
+        {
+          "productId": "p7",
+          "name": "Taj Mahal Tea 500g",
+          "quantity": 2,
+          "price": 340,
+          "total": 680,
+          "gstRate": 12,
+          "gstAmount": 82
+        }
+      ],
+      "subtotal": 876,
+      "tax": 105,
+      "total": 981,
+      "paymentMethod": "UPI"
+    },
+    {
+      "id": "s22",
+      "invoiceNumber": "VM-1022",
+      "customerId": "c41",
+      "customerName": "Pranav Reddy",
+      "date": "2026-07-04T18:56:42.312Z",
+      "products": [
+        {
+          "productId": "p6",
+          "name": "Maggi 2-Min Noodles 12-Pack",
+          "quantity": 2,
+          "price": 168,
+          "total": 336,
+          "gstRate": 12,
+          "gstAmount": 40
+        },
+        {
+          "productId": "p2",
+          "name": "Aashirvaad Shudh Chakki Atta 5kg",
+          "quantity": 1,
+          "price": 260,
+          "total": 260,
+          "gstRate": 5,
+          "gstAmount": 13
+        },
+        {
+          "productId": "p10",
+          "name": "Cinthol Lime Soap 4-pack",
+          "quantity": 1,
+          "price": 145,
+          "total": 145,
+          "gstRate": 12,
+          "gstAmount": 17
+        }
+      ],
+      "subtotal": 741,
+      "tax": 70,
+      "total": 811,
+      "paymentMethod": "UPI"
+    },
+    {
+      "id": "s65",
+      "invoiceNumber": "VM-1065",
+      "customerId": "c48",
+      "customerName": "Sunita Kumar",
+      "date": "2026-07-04T18:03:42.313Z",
+      "products": [
+        {
+          "productId": "p3",
+          "name": "Fortune Soya Health Oil 1L",
+          "quantity": 1,
+          "price": 145,
+          "total": 145,
+          "gstRate": 12,
+          "gstAmount": 17
+        }
+      ],
+      "subtotal": 145,
+      "tax": 17,
+      "total": 162,
+      "paymentMethod": "UPI"
+    },
+    {
+      "id": "s64",
+      "invoiceNumber": "VM-1064",
+      "customerId": "c58",
+      "customerName": "Gaurav Bose",
+      "date": "2026-07-04T09:28:42.313Z",
+      "products": [
+        {
+          "productId": "p4",
+          "name": "Tata Salt 1kg",
+          "quantity": 2,
+          "price": 28,
+          "total": 56,
+          "gstRate": 12,
+          "gstAmount": 7
+        },
+        {
+          "productId": "p5",
+          "name": "Surf Excel Easy Wash 1kg",
+          "quantity": 2,
+          "price": 140,
+          "total": 280,
+          "gstRate": 12,
+          "gstAmount": 34
+        }
+      ],
+      "subtotal": 336,
+      "tax": 41,
+      "total": 377,
+      "paymentMethod": "CASH"
+    },
+    {
+      "id": "s50",
+      "invoiceNumber": "VM-1050",
+      "customerId": "c46",
+      "customerName": "Aditi Dubey",
+      "date": "2026-07-04T04:41:42.313Z",
+      "products": [
+        {
+          "productId": "p1",
+          "name": "Amul Gold Milk 1L",
+          "quantity": 1,
+          "price": 66,
+          "total": 66,
+          "gstRate": 0,
+          "gstAmount": 0
+        },
+        {
+          "productId": "p6",
+          "name": "Maggi 2-Min Noodles 12-Pack",
+          "quantity": 2,
+          "price": 168,
+          "total": 336,
+          "gstRate": 12,
+          "gstAmount": 40
+        }
+      ],
+      "subtotal": 402,
+      "tax": 40,
+      "total": 442,
+      "paymentMethod": "CARD"
+    },
+    {
+      "id": "s43",
+      "invoiceNumber": "VM-1043",
+      "customerId": "c17",
+      "customerName": "Kiran Singh",
+      "date": "2026-07-04T04:06:42.312Z",
+      "products": [
+        {
+          "productId": "p5",
+          "name": "Surf Excel Easy Wash 1kg",
+          "quantity": 2,
+          "price": 140,
+          "total": 280,
+          "gstRate": 12,
+          "gstAmount": 34
+        },
+        {
+          "productId": "p4",
+          "name": "Tata Salt 1kg",
+          "quantity": 2,
+          "price": 28,
+          "total": 56,
+          "gstRate": 12,
+          "gstAmount": 7
+        }
+      ],
+      "subtotal": 336,
+      "tax": 41,
+      "total": 377,
+      "paymentMethod": "UPI"
+    },
+    {
+      "id": "s45",
+      "invoiceNumber": "VM-1045",
+      "customerId": "c54",
+      "customerName": "Vikram Yadav",
+      "date": "2026-07-04T00:34:42.313Z",
+      "products": [
+        {
+          "productId": "p4",
+          "name": "Tata Salt 1kg",
+          "quantity": 2,
+          "price": 28,
+          "total": 56,
+          "gstRate": 12,
+          "gstAmount": 7
+        }
+      ],
+      "subtotal": 56,
+      "tax": 7,
+      "total": 63,
+      "paymentMethod": "DUE"
+    },
+    {
+      "id": "s2",
+      "invoiceNumber": "VM-1002",
+      "customerId": "c_core_4",
+      "customerName": "Sunita Rao",
+      "date": "2026-07-03T21:30:42.312Z",
+      "products": [
+        {
+          "productId": "p4",
+          "name": "Tata Salt 1kg",
+          "quantity": 1,
+          "price": 28,
+          "total": 28,
+          "gstRate": 12,
+          "gstAmount": 3
+        },
+        {
+          "productId": "p1",
+          "name": "Amul Gold Milk 1L",
+          "quantity": 1,
+          "price": 66,
+          "total": 66,
+          "gstRate": 0,
+          "gstAmount": 0
+        },
+        {
+          "productId": "p5",
+          "name": "Surf Excel Easy Wash 1kg",
+          "quantity": 2,
+          "price": 140,
+          "total": 280,
+          "gstRate": 12,
+          "gstAmount": 34
+        }
+      ],
+      "subtotal": 374,
+      "tax": 37,
+      "total": 411,
+      "paymentMethod": "CASH"
+    },
+    {
+      "id": "s8",
+      "invoiceNumber": "VM-1008",
+      "customerId": "c14",
+      "customerName": "Alok Shenoy",
+      "date": "2026-07-03T18:32:42.312Z",
+      "products": [
+        {
+          "productId": "p6",
+          "name": "Maggi 2-Min Noodles 12-Pack",
+          "quantity": 1,
+          "price": 168,
+          "total": 168,
+          "gstRate": 12,
+          "gstAmount": 20
+        },
+        {
+          "productId": "p1",
+          "name": "Amul Gold Milk 1L",
+          "quantity": 2,
+          "price": 66,
+          "total": 132,
+          "gstRate": 0,
+          "gstAmount": 0
+        }
+      ],
+      "subtotal": 300,
+      "tax": 20,
+      "total": 320,
+      "paymentMethod": "CASH"
+    },
+    {
+      "id": "s72",
+      "invoiceNumber": "VM-1072",
+      "customerId": "c5",
+      "customerName": "Nisha Mehta",
+      "date": "2026-07-03T16:32:42.313Z",
+      "products": [
+        {
+          "productId": "p6",
+          "name": "Maggi 2-Min Noodles 12-Pack",
+          "quantity": 1,
+          "price": 168,
+          "total": 168,
+          "gstRate": 12,
+          "gstAmount": 20
+        }
+      ],
+      "subtotal": 168,
+      "tax": 20,
+      "total": 188,
+      "paymentMethod": "CARD"
+    },
+    {
+      "id": "s41",
+      "invoiceNumber": "VM-1041",
+      "customerId": "c41",
+      "customerName": "Pranav Reddy",
+      "date": "2026-07-03T16:28:42.312Z",
+      "products": [
+        {
+          "productId": "p1",
+          "name": "Amul Gold Milk 1L",
+          "quantity": 2,
+          "price": 66,
+          "total": 132,
+          "gstRate": 0,
+          "gstAmount": 0
+        },
+        {
+          "productId": "p2",
+          "name": "Aashirvaad Shudh Chakki Atta 5kg",
+          "quantity": 2,
+          "price": 260,
+          "total": 520,
+          "gstRate": 5,
+          "gstAmount": 26
+        }
+      ],
+      "subtotal": 652,
+      "tax": 26,
+      "total": 678,
+      "paymentMethod": "CASH"
+    },
+    {
+      "id": "s71",
+      "invoiceNumber": "VM-1071",
+      "customerId": "c56",
+      "customerName": "Pooja Choudhary",
+      "date": "2026-07-03T12:04:42.313Z",
+      "products": [
+        {
+          "productId": "p8",
+          "name": "Madhur Pure Sugar 1kg",
+          "quantity": 1,
+          "price": 48,
+          "total": 48,
+          "gstRate": 5,
+          "gstAmount": 2
+        }
+      ],
+      "subtotal": 48,
+      "tax": 2,
+      "total": 50,
+      "paymentMethod": "CARD"
+    },
+    {
+      "id": "s59",
+      "invoiceNumber": "VM-1059",
+      "customerId": "c39",
+      "customerName": "Shruti Reddy",
+      "date": "2026-07-03T07:38:42.313Z",
+      "products": [
+        {
+          "productId": "p3",
+          "name": "Fortune Soya Health Oil 1L",
+          "quantity": 2,
+          "price": 145,
+          "total": 290,
+          "gstRate": 12,
+          "gstAmount": 35
+        },
+        {
+          "productId": "p2",
+          "name": "Aashirvaad Shudh Chakki Atta 5kg",
+          "quantity": 2,
+          "price": 260,
+          "total": 520,
+          "gstRate": 5,
+          "gstAmount": 26
+        },
+        {
+          "productId": "p1",
+          "name": "Amul Gold Milk 1L",
+          "quantity": 1,
+          "price": 66,
+          "total": 66,
+          "gstRate": 0,
+          "gstAmount": 0
+        }
+      ],
+      "subtotal": 876,
+      "tax": 61,
+      "total": 937,
+      "paymentMethod": "CASH"
+    },
+    {
+      "id": "s66",
+      "invoiceNumber": "VM-1066",
+      "customerId": "c24",
+      "customerName": "Divya Singh",
+      "date": "2026-07-03T03:47:42.313Z",
+      "products": [
+        {
+          "productId": "p5",
+          "name": "Surf Excel Easy Wash 1kg",
+          "quantity": 1,
+          "price": 140,
+          "total": 140,
+          "gstRate": 12,
+          "gstAmount": 17
+        }
+      ],
+      "subtotal": 140,
+      "tax": 17,
+      "total": 157,
+      "paymentMethod": "UPI"
+    },
+    {
+      "id": "s51",
+      "invoiceNumber": "VM-1051",
+      "customerId": "c11",
+      "customerName": "Amit Dubey",
+      "date": "2026-07-03T02:49:42.313Z",
+      "products": [
+        {
+          "productId": "p3",
+          "name": "Fortune Soya Health Oil 1L",
+          "quantity": 1,
+          "price": 145,
+          "total": 145,
+          "gstRate": 12,
+          "gstAmount": 17
+        },
+        {
+          "productId": "p5",
+          "name": "Surf Excel Easy Wash 1kg",
+          "quantity": 1,
+          "price": 140,
+          "total": 140,
+          "gstRate": 12,
+          "gstAmount": 17
+        }
+      ],
+      "subtotal": 285,
+      "tax": 34,
+      "total": 319,
+      "paymentMethod": "CASH"
+    },
+    {
+      "id": "s3",
+      "invoiceNumber": "VM-1003",
+      "customerId": "c47",
+      "customerName": "Amit Desai",
+      "date": "2026-07-03T00:39:42.312Z",
+      "products": [
+        {
+          "productId": "p1",
+          "name": "Amul Gold Milk 1L",
+          "quantity": 1,
+          "price": 66,
+          "total": 66,
+          "gstRate": 0,
+          "gstAmount": 0
+        }
+      ],
+      "subtotal": 66,
+      "tax": 0,
+      "total": 66,
+      "paymentMethod": "UPI"
+    },
+    {
+      "id": "s4",
+      "invoiceNumber": "VM-1004",
+      "customerId": "c57",
+      "customerName": "Sunita Ranjan",
+      "date": "2026-07-02T19:47:42.312Z",
+      "products": [
+        {
+          "productId": "p6",
+          "name": "Maggi 2-Min Noodles 12-Pack",
+          "quantity": 1,
+          "price": 168,
+          "total": 168,
+          "gstRate": 12,
+          "gstAmount": 20
+        },
+        {
+          "productId": "p9",
+          "name": "Dettol Liquid Handwash 200ml",
+          "quantity": 1,
+          "price": 99,
+          "total": 99,
+          "gstRate": 12,
+          "gstAmount": 12
+        },
+        {
+          "productId": "p8",
+          "name": "Madhur Pure Sugar 1kg",
+          "quantity": 1,
+          "price": 48,
+          "total": 48,
+          "gstRate": 5,
+          "gstAmount": 2
+        }
+      ],
+      "subtotal": 315,
+      "tax": 34,
+      "total": 349,
+      "paymentMethod": "CARD"
+    },
+    {
+      "id": "s60",
+      "invoiceNumber": "VM-1060",
+      "customerId": "c34",
+      "customerName": "Suresh Patel",
+      "date": "2026-07-02T03:47:42.313Z",
+      "products": [
+        {
+          "productId": "p8",
+          "name": "Madhur Pure Sugar 1kg",
+          "quantity": 1,
+          "price": 48,
+          "total": 48,
+          "gstRate": 5,
+          "gstAmount": 2
+        },
+        {
+          "productId": "p7",
+          "name": "Taj Mahal Tea 500g",
+          "quantity": 1,
+          "price": 340,
+          "total": 340,
+          "gstRate": 12,
+          "gstAmount": 41
+        }
+      ],
+      "subtotal": 388,
+      "tax": 43,
+      "total": 431,
+      "paymentMethod": "CASH"
+    },
+    {
+      "id": "s70",
+      "invoiceNumber": "VM-1070",
+      "customerId": "c18",
+      "customerName": "Komal Yadav",
+      "date": "2026-07-01T20:18:42.313Z",
+      "products": [
+        {
+          "productId": "p1",
+          "name": "Amul Gold Milk 1L",
+          "quantity": 2,
+          "price": 66,
+          "total": 132,
+          "gstRate": 0,
+          "gstAmount": 0
+        },
+        {
+          "productId": "p2",
+          "name": "Aashirvaad Shudh Chakki Atta 5kg",
+          "quantity": 2,
+          "price": 260,
+          "total": 520,
+          "gstRate": 5,
+          "gstAmount": 26
+        }
+      ],
+      "subtotal": 652,
+      "tax": 26,
+      "total": 678,
+      "paymentMethod": "CARD"
+    },
+    {
+      "id": "s53",
+      "invoiceNumber": "VM-1053",
+      "customerId": "c39",
+      "customerName": "Shruti Reddy",
+      "date": "2026-07-01T17:16:42.313Z",
+      "products": [
+        {
+          "productId": "p1",
+          "name": "Amul Gold Milk 1L",
+          "quantity": 1,
+          "price": 66,
+          "total": 66,
+          "gstRate": 0,
+          "gstAmount": 0
+        }
+      ],
+      "subtotal": 66,
+      "tax": 0,
+      "total": 66,
+      "paymentMethod": "UPI"
+    },
+    {
+      "id": "s20",
+      "invoiceNumber": "VM-1020",
+      "customerId": "c6",
+      "customerName": "Arjun Saxena",
+      "date": "2026-07-01T05:52:42.312Z",
+      "products": [
+        {
+          "productId": "p7",
+          "name": "Taj Mahal Tea 500g",
+          "quantity": 2,
+          "price": 340,
+          "total": 680,
+          "gstRate": 12,
+          "gstAmount": 82
+        },
+        {
+          "productId": "p8",
+          "name": "Madhur Pure Sugar 1kg",
+          "quantity": 2,
+          "price": 48,
+          "total": 96,
+          "gstRate": 5,
+          "gstAmount": 5
+        },
+        {
+          "productId": "p1",
+          "name": "Amul Gold Milk 1L",
+          "quantity": 2,
+          "price": 66,
+          "total": 132,
+          "gstRate": 0,
+          "gstAmount": 0
+        }
+      ],
+      "subtotal": 908,
+      "tax": 87,
+      "total": 995,
+      "paymentMethod": "DUE"
+    },
+    {
+      "id": "s38",
+      "invoiceNumber": "VM-1038",
+      "customerId": "c30",
+      "customerName": "Arjun Nair",
+      "date": "2026-07-01T04:12:42.312Z",
+      "products": [
+        {
+          "productId": "p1",
+          "name": "Amul Gold Milk 1L",
+          "quantity": 1,
+          "price": 66,
+          "total": 66,
+          "gstRate": 0,
+          "gstAmount": 0
+        },
+        {
+          "productId": "p7",
+          "name": "Taj Mahal Tea 500g",
+          "quantity": 1,
+          "price": 340,
+          "total": 340,
+          "gstRate": 12,
+          "gstAmount": 41
+        },
+        {
+          "productId": "p2",
+          "name": "Aashirvaad Shudh Chakki Atta 5kg",
+          "quantity": 2,
+          "price": 260,
+          "total": 520,
+          "gstRate": 5,
+          "gstAmount": 26
+        }
+      ],
+      "subtotal": 926,
+      "tax": 67,
+      "total": 993,
+      "paymentMethod": "CASH"
+    },
+    {
+      "id": "s10",
+      "invoiceNumber": "VM-1010",
+      "customerId": "c34",
+      "customerName": "Suresh Patel",
+      "date": "2026-06-30T16:10:42.312Z",
+      "products": [
+        {
+          "productId": "p8",
+          "name": "Madhur Pure Sugar 1kg",
+          "quantity": 2,
+          "price": 48,
+          "total": 96,
+          "gstRate": 5,
+          "gstAmount": 5
+        },
+        {
+          "productId": "p4",
+          "name": "Tata Salt 1kg",
+          "quantity": 1,
+          "price": 28,
+          "total": 28,
+          "gstRate": 12,
+          "gstAmount": 3
+        },
+        {
+          "productId": "p10",
+          "name": "Cinthol Lime Soap 4-pack",
+          "quantity": 1,
+          "price": 145,
+          "total": 145,
+          "gstRate": 12,
+          "gstAmount": 17
+        }
+      ],
+      "subtotal": 269,
+      "tax": 25,
+      "total": 294,
+      "paymentMethod": "UPI"
+    },
+    {
+      "id": "s7",
+      "invoiceNumber": "VM-1007",
+      "customerId": "c35",
+      "customerName": "Arjun Choudhary",
+      "date": "2026-06-30T01:13:42.312Z",
+      "products": [
+        {
+          "productId": "p1",
+          "name": "Amul Gold Milk 1L",
+          "quantity": 1,
+          "price": 66,
+          "total": 66,
+          "gstRate": 0,
+          "gstAmount": 0
+        },
+        {
+          "productId": "p8",
+          "name": "Madhur Pure Sugar 1kg",
+          "quantity": 1,
+          "price": 48,
+          "total": 48,
+          "gstRate": 5,
+          "gstAmount": 2
+        }
+      ],
+      "subtotal": 114,
+      "tax": 2,
+      "total": 116,
+      "paymentMethod": "CARD"
+    },
+    {
+      "id": "s19",
+      "invoiceNumber": "VM-1019",
+      "customerId": "c28",
+      "customerName": "Nisha Rao",
+      "date": "2026-06-29T20:14:42.312Z",
+      "products": [
+        {
+          "productId": "p1",
+          "name": "Amul Gold Milk 1L",
+          "quantity": 2,
+          "price": 66,
+          "total": 132,
+          "gstRate": 0,
+          "gstAmount": 0
+        },
+        {
+          "productId": "p5",
+          "name": "Surf Excel Easy Wash 1kg",
+          "quantity": 1,
+          "price": 140,
+          "total": 140,
+          "gstRate": 12,
+          "gstAmount": 17
+        }
+      ],
+      "subtotal": 272,
+      "tax": 17,
+      "total": 289,
+      "paymentMethod": "UPI"
+    },
+    {
+      "id": "s11",
+      "invoiceNumber": "VM-1011",
+      "customerId": "c43",
+      "customerName": "Manish Nair",
+      "date": "2026-06-29T18:44:42.312Z",
+      "products": [
+        {
+          "productId": "p1",
+          "name": "Amul Gold Milk 1L",
+          "quantity": 2,
+          "price": 66,
+          "total": 132,
+          "gstRate": 0,
+          "gstAmount": 0
+        },
+        {
+          "productId": "p2",
+          "name": "Aashirvaad Shudh Chakki Atta 5kg",
+          "quantity": 2,
+          "price": 260,
+          "total": 520,
+          "gstRate": 5,
+          "gstAmount": 26
+        },
+        {
+          "productId": "p8",
+          "name": "Madhur Pure Sugar 1kg",
+          "quantity": 2,
+          "price": 48,
+          "total": 96,
+          "gstRate": 5,
+          "gstAmount": 5
+        }
+      ],
+      "subtotal": 748,
+      "tax": 31,
+      "total": 779,
+      "paymentMethod": "UPI"
+    },
+    {
+      "id": "s63",
+      "invoiceNumber": "VM-1063",
+      "customerId": "c_core_4",
+      "customerName": "Sunita Rao",
+      "date": "2026-06-29T17:25:42.313Z",
+      "products": [
+        {
+          "productId": "p4",
+          "name": "Tata Salt 1kg",
+          "quantity": 1,
+          "price": 28,
+          "total": 28,
+          "gstRate": 12,
+          "gstAmount": 3
+        },
+        {
+          "productId": "p3",
+          "name": "Fortune Soya Health Oil 1L",
+          "quantity": 1,
+          "price": 145,
+          "total": 145,
+          "gstRate": 12,
+          "gstAmount": 17
+        },
+        {
+          "productId": "p10",
+          "name": "Cinthol Lime Soap 4-pack",
+          "quantity": 1,
+          "price": 145,
+          "total": 145,
+          "gstRate": 12,
+          "gstAmount": 17
+        }
+      ],
+      "subtotal": 318,
+      "tax": 37,
+      "total": 355,
+      "paymentMethod": "CARD"
+    },
+    {
+      "id": "s16",
+      "invoiceNumber": "VM-1016",
+      "customerId": "c15",
+      "customerName": "Komal Narayanan",
+      "date": "2026-06-29T03:33:42.312Z",
+      "products": [
+        {
+          "productId": "p4",
+          "name": "Tata Salt 1kg",
+          "quantity": 2,
+          "price": 28,
+          "total": 56,
+          "gstRate": 12,
+          "gstAmount": 7
+        },
+        {
+          "productId": "p3",
+          "name": "Fortune Soya Health Oil 1L",
+          "quantity": 2,
+          "price": 145,
+          "total": 290,
+          "gstRate": 12,
+          "gstAmount": 35
+        },
+        {
+          "productId": "p9",
+          "name": "Dettol Liquid Handwash 200ml",
+          "quantity": 2,
+          "price": 99,
+          "total": 198,
+          "gstRate": 12,
+          "gstAmount": 24
+        }
+      ],
+      "subtotal": 544,
+      "tax": 66,
+      "total": 610,
+      "paymentMethod": "CARD"
+    },
+    {
+      "id": "s61",
+      "invoiceNumber": "VM-1061",
+      "customerId": "c_core_2",
+      "customerName": "Priya Patel",
+      "date": "2026-06-29T01:01:42.313Z",
+      "products": [
+        {
+          "productId": "p1",
+          "name": "Amul Gold Milk 1L",
+          "quantity": 1,
+          "price": 66,
+          "total": 66,
+          "gstRate": 0,
+          "gstAmount": 0
+        },
+        {
+          "productId": "p5",
+          "name": "Surf Excel Easy Wash 1kg",
+          "quantity": 1,
+          "price": 140,
+          "total": 140,
+          "gstRate": 12,
+          "gstAmount": 17
+        },
+        {
+          "productId": "p2",
+          "name": "Aashirvaad Shudh Chakki Atta 5kg",
+          "quantity": 1,
+          "price": 260,
+          "total": 260,
+          "gstRate": 5,
+          "gstAmount": 13
+        }
+      ],
+      "subtotal": 466,
+      "tax": 30,
+      "total": 496,
+      "paymentMethod": "DUE"
+    },
+    {
+      "id": "s15",
+      "invoiceNumber": "VM-1015",
+      "customerId": "c13",
+      "customerName": "Sanjay Desai",
+      "date": "2026-06-28T11:28:42.312Z",
+      "products": [
+        {
+          "productId": "p6",
+          "name": "Maggi 2-Min Noodles 12-Pack",
+          "quantity": 1,
+          "price": 168,
+          "total": 168,
+          "gstRate": 12,
+          "gstAmount": 20
+        },
+        {
+          "productId": "p10",
+          "name": "Cinthol Lime Soap 4-pack",
+          "quantity": 2,
+          "price": 145,
+          "total": 290,
+          "gstRate": 12,
+          "gstAmount": 35
+        }
+      ],
+      "subtotal": 458,
+      "tax": 55,
+      "total": 513,
+      "paymentMethod": "UPI"
+    },
+    {
+      "id": "s24",
+      "invoiceNumber": "VM-1024",
+      "customerId": "c44",
+      "customerName": "Sunita Singh",
+      "date": "2026-06-28T03:26:42.312Z",
+      "products": [
+        {
+          "productId": "p6",
+          "name": "Maggi 2-Min Noodles 12-Pack",
+          "quantity": 2,
+          "price": 168,
+          "total": 336,
+          "gstRate": 12,
+          "gstAmount": 40
+        },
+        {
+          "productId": "p5",
+          "name": "Surf Excel Easy Wash 1kg",
+          "quantity": 1,
+          "price": 140,
+          "total": 140,
+          "gstRate": 12,
+          "gstAmount": 17
+        },
+        {
+          "productId": "p4",
+          "name": "Tata Salt 1kg",
+          "quantity": 1,
+          "price": 28,
+          "total": 28,
+          "gstRate": 12,
+          "gstAmount": 3
+        }
+      ],
+      "subtotal": 504,
+      "tax": 60,
+      "total": 564,
+      "paymentMethod": "UPI"
+    },
+    {
+      "id": "s55",
+      "invoiceNumber": "VM-1055",
+      "customerId": "c23",
+      "customerName": "Abhishek Narayanan",
+      "date": "2026-06-27T21:55:42.313Z",
+      "products": [
+        {
+          "productId": "p7",
+          "name": "Taj Mahal Tea 500g",
+          "quantity": 2,
+          "price": 340,
+          "total": 680,
+          "gstRate": 12,
+          "gstAmount": 82
+        },
+        {
+          "productId": "p1",
+          "name": "Amul Gold Milk 1L",
+          "quantity": 2,
+          "price": 66,
+          "total": 132,
+          "gstRate": 0,
+          "gstAmount": 0
+        },
+        {
+          "productId": "p2",
+          "name": "Aashirvaad Shudh Chakki Atta 5kg",
+          "quantity": 1,
+          "price": 260,
+          "total": 260,
+          "gstRate": 5,
+          "gstAmount": 13
+        }
+      ],
+      "subtotal": 1072,
+      "tax": 95,
+      "total": 1167,
+      "paymentMethod": "CASH"
+    },
+    {
+      "id": "s56",
+      "invoiceNumber": "VM-1056",
+      "customerId": "c_core_3",
+      "customerName": "Amit Sharma",
+      "date": "2026-06-27T07:25:42.313Z",
+      "products": [
+        {
+          "productId": "p7",
+          "name": "Taj Mahal Tea 500g",
+          "quantity": 2,
+          "price": 340,
+          "total": 680,
+          "gstRate": 12,
+          "gstAmount": 82
+        },
+        {
+          "productId": "p2",
+          "name": "Aashirvaad Shudh Chakki Atta 5kg",
+          "quantity": 1,
+          "price": 260,
+          "total": 260,
+          "gstRate": 5,
+          "gstAmount": 13
+        },
+        {
+          "productId": "p1",
+          "name": "Amul Gold Milk 1L",
+          "quantity": 2,
+          "price": 66,
+          "total": 132,
+          "gstRate": 0,
+          "gstAmount": 0
+        }
+      ],
+      "subtotal": 1072,
+      "tax": 95,
+      "total": 1167,
+      "paymentMethod": "CASH"
+    },
+    {
+      "id": "s30",
+      "invoiceNumber": "VM-1030",
+      "customerId": "c30",
+      "customerName": "Arjun Nair",
+      "date": "2026-06-26T18:28:42.312Z",
+      "products": [
+        {
+          "productId": "p7",
+          "name": "Taj Mahal Tea 500g",
+          "quantity": 2,
+          "price": 340,
+          "total": 680,
+          "gstRate": 12,
+          "gstAmount": 82
+        },
+        {
+          "productId": "p9",
+          "name": "Dettol Liquid Handwash 200ml",
+          "quantity": 2,
+          "price": 99,
+          "total": 198,
+          "gstRate": 12,
+          "gstAmount": 24
+        }
+      ],
+      "subtotal": 878,
+      "tax": 106,
+      "total": 984,
+      "paymentMethod": "CASH"
+    },
+    {
+      "id": "s1",
+      "invoiceNumber": "VM-1001",
+      "customerId": "c32",
+      "customerName": "Nisha Choudhary",
+      "date": "2026-06-26T18:20:42.312Z",
+      "products": [
+        {
+          "productId": "p1",
+          "name": "Amul Gold Milk 1L",
+          "quantity": 2,
+          "price": 66,
+          "total": 132,
+          "gstRate": 0,
+          "gstAmount": 0
+        },
+        {
+          "productId": "p7",
+          "name": "Taj Mahal Tea 500g",
+          "quantity": 2,
+          "price": 340,
+          "total": 680,
+          "gstRate": 12,
+          "gstAmount": 82
+        },
+        {
+          "productId": "p10",
+          "name": "Cinthol Lime Soap 4-pack",
+          "quantity": 1,
+          "price": 145,
+          "total": 145,
+          "gstRate": 12,
+          "gstAmount": 17
+        }
+      ],
+      "subtotal": 957,
+      "tax": 99,
+      "total": 1056,
+      "paymentMethod": "UPI"
+    },
+    {
+      "id": "s48",
+      "invoiceNumber": "VM-1048",
+      "customerId": "c37",
+      "customerName": "Shalini Dutta",
+      "date": "2026-06-26T18:03:42.313Z",
+      "products": [
+        {
+          "productId": "p4",
+          "name": "Tata Salt 1kg",
+          "quantity": 1,
+          "price": 28,
+          "total": 28,
+          "gstRate": 12,
+          "gstAmount": 3
+        }
+      ],
+      "subtotal": 28,
+      "tax": 3,
+      "total": 31,
+      "paymentMethod": "UPI"
+    },
+    {
+      "id": "s9",
+      "invoiceNumber": "VM-1009",
+      "customerId": "c48",
+      "customerName": "Sunita Kumar",
+      "date": "2026-06-26T10:35:42.312Z",
+      "products": [
+        {
+          "productId": "p9",
+          "name": "Dettol Liquid Handwash 200ml",
+          "quantity": 1,
+          "price": 99,
+          "total": 99,
+          "gstRate": 12,
+          "gstAmount": 12
+        }
+      ],
+      "subtotal": 99,
+      "tax": 12,
+      "total": 111,
+      "paymentMethod": "UPI"
+    },
+    {
+      "id": "s28",
+      "invoiceNumber": "VM-1028",
+      "customerId": "c32",
+      "customerName": "Nisha Choudhary",
+      "date": "2026-06-26T06:05:42.312Z",
+      "products": [
+        {
+          "productId": "p8",
+          "name": "Madhur Pure Sugar 1kg",
+          "quantity": 2,
+          "price": 48,
+          "total": 96,
+          "gstRate": 5,
+          "gstAmount": 5
+        },
+        {
+          "productId": "p2",
+          "name": "Aashirvaad Shudh Chakki Atta 5kg",
+          "quantity": 2,
+          "price": 260,
+          "total": 520,
+          "gstRate": 5,
+          "gstAmount": 26
+        }
+      ],
+      "subtotal": 616,
+      "tax": 31,
+      "total": 647,
+      "paymentMethod": "DUE"
+    },
+    {
+      "id": "s52",
+      "invoiceNumber": "VM-1052",
+      "customerId": "c_core_2",
+      "customerName": "Priya Patel",
+      "date": "2026-06-25T22:49:42.313Z",
+      "products": [
+        {
+          "productId": "p8",
+          "name": "Madhur Pure Sugar 1kg",
+          "quantity": 2,
+          "price": 48,
+          "total": 96,
+          "gstRate": 5,
+          "gstAmount": 5
+        },
+        {
+          "productId": "p3",
+          "name": "Fortune Soya Health Oil 1L",
+          "quantity": 2,
+          "price": 145,
+          "total": 290,
+          "gstRate": 12,
+          "gstAmount": 35
+        },
+        {
+          "productId": "p2",
+          "name": "Aashirvaad Shudh Chakki Atta 5kg",
+          "quantity": 2,
+          "price": 260,
+          "total": 520,
+          "gstRate": 5,
+          "gstAmount": 26
+        }
+      ],
+      "subtotal": 906,
+      "tax": 66,
+      "total": 972,
+      "paymentMethod": "UPI"
+    },
+    {
+      "id": "s67",
+      "invoiceNumber": "VM-1067",
+      "customerId": "c43",
+      "customerName": "Manish Nair",
+      "date": "2026-06-24T09:39:42.313Z",
+      "products": [
+        {
+          "productId": "p8",
+          "name": "Madhur Pure Sugar 1kg",
+          "quantity": 1,
+          "price": 48,
+          "total": 48,
+          "gstRate": 5,
+          "gstAmount": 2
+        },
+        {
+          "productId": "p3",
+          "name": "Fortune Soya Health Oil 1L",
+          "quantity": 2,
+          "price": 145,
+          "total": 290,
+          "gstRate": 12,
+          "gstAmount": 35
+        }
+      ],
+      "subtotal": 338,
+      "tax": 37,
+      "total": 375,
+      "paymentMethod": "DUE"
+    },
+    {
+      "id": "s26",
+      "invoiceNumber": "VM-1026",
+      "customerId": "c_core_2",
+      "customerName": "Priya Patel",
+      "date": "2026-06-24T07:17:42.312Z",
+      "products": [
+        {
+          "productId": "p6",
+          "name": "Maggi 2-Min Noodles 12-Pack",
+          "quantity": 2,
+          "price": 168,
+          "total": 336,
+          "gstRate": 12,
+          "gstAmount": 40
+        },
+        {
+          "productId": "p4",
+          "name": "Tata Salt 1kg",
+          "quantity": 2,
+          "price": 28,
+          "total": 56,
+          "gstRate": 12,
+          "gstAmount": 7
+        },
+        {
+          "productId": "p1",
+          "name": "Amul Gold Milk 1L",
+          "quantity": 1,
+          "price": 66,
+          "total": 66,
+          "gstRate": 0,
+          "gstAmount": 0
+        }
+      ],
+      "subtotal": 458,
+      "tax": 47,
+      "total": 505,
+      "paymentMethod": "UPI"
+    },
+    {
+      "id": "s36",
+      "invoiceNumber": "VM-1036",
+      "customerId": "c_core_2",
+      "customerName": "Priya Patel",
+      "date": "2026-06-23T23:40:42.312Z",
+      "products": [
+        {
+          "productId": "p2",
+          "name": "Aashirvaad Shudh Chakki Atta 5kg",
+          "quantity": 2,
+          "price": 260,
+          "total": 520,
+          "gstRate": 5,
+          "gstAmount": 26
+        },
+        {
+          "productId": "p4",
+          "name": "Tata Salt 1kg",
+          "quantity": 2,
+          "price": 28,
+          "total": 56,
+          "gstRate": 12,
+          "gstAmount": 7
+        },
+        {
+          "productId": "p9",
+          "name": "Dettol Liquid Handwash 200ml",
+          "quantity": 2,
+          "price": 99,
+          "total": 198,
+          "gstRate": 12,
+          "gstAmount": 24
+        }
+      ],
+      "subtotal": 774,
+      "tax": 57,
+      "total": 831,
+      "paymentMethod": "CASH"
+    },
+    {
+      "id": "s49",
+      "invoiceNumber": "VM-1049",
+      "customerId": "c9",
+      "customerName": "Manoj Mishra",
+      "date": "2026-06-23T14:37:42.313Z",
+      "products": [
+        {
+          "productId": "p1",
+          "name": "Amul Gold Milk 1L",
+          "quantity": 2,
+          "price": 66,
+          "total": 132,
+          "gstRate": 0,
+          "gstAmount": 0
+        },
+        {
+          "productId": "p9",
+          "name": "Dettol Liquid Handwash 200ml",
+          "quantity": 2,
+          "price": 99,
+          "total": 198,
+          "gstRate": 12,
+          "gstAmount": 24
+        }
+      ],
+      "subtotal": 330,
+      "tax": 24,
+      "total": 354,
+      "paymentMethod": "CARD"
+    },
+    {
+      "id": "s18",
+      "invoiceNumber": "VM-1018",
+      "customerId": "c30",
+      "customerName": "Arjun Nair",
+      "date": "2026-06-23T12:29:42.312Z",
+      "products": [
+        {
+          "productId": "p4",
+          "name": "Tata Salt 1kg",
+          "quantity": 1,
+          "price": 28,
+          "total": 28,
+          "gstRate": 12,
+          "gstAmount": 3
+        },
+        {
+          "productId": "p3",
+          "name": "Fortune Soya Health Oil 1L",
+          "quantity": 1,
+          "price": 145,
+          "total": 145,
+          "gstRate": 12,
+          "gstAmount": 17
+        },
+        {
+          "productId": "p1",
+          "name": "Amul Gold Milk 1L",
+          "quantity": 2,
+          "price": 66,
+          "total": 132,
+          "gstRate": 0,
+          "gstAmount": 0
+        }
+      ],
+      "subtotal": 305,
+      "tax": 20,
+      "total": 325,
+      "paymentMethod": "CASH"
+    },
+    {
+      "id": "s62",
+      "invoiceNumber": "VM-1062",
+      "customerId": "c_core_3",
+      "customerName": "Amit Sharma",
+      "date": "2026-06-23T01:24:42.313Z",
+      "products": [
+        {
+          "productId": "p10",
+          "name": "Cinthol Lime Soap 4-pack",
+          "quantity": 2,
+          "price": 145,
+          "total": 290,
+          "gstRate": 12,
+          "gstAmount": 35
+        }
+      ],
+      "subtotal": 290,
+      "tax": 35,
+      "total": 325,
+      "paymentMethod": "UPI"
+    },
+    {
+      "id": "s39",
+      "invoiceNumber": "VM-1039",
+      "customerId": "c54",
+      "customerName": "Vikram Yadav",
+      "date": "2026-06-21T09:53:42.312Z",
+      "products": [
+        {
+          "productId": "p1",
+          "name": "Amul Gold Milk 1L",
+          "quantity": 1,
+          "price": 66,
+          "total": 66,
+          "gstRate": 0,
+          "gstAmount": 0
+        },
+        {
+          "productId": "p4",
+          "name": "Tata Salt 1kg",
+          "quantity": 1,
+          "price": 28,
+          "total": 28,
+          "gstRate": 12,
+          "gstAmount": 3
+        }
+      ],
+      "subtotal": 94,
+      "tax": 3,
+      "total": 97,
+      "paymentMethod": "UPI"
+    },
+    {
+      "id": "s74",
+      "invoiceNumber": "VM-1074",
+      "customerId": "c22",
+      "customerName": "Manish Patel",
+      "date": "2026-06-20T09:40:42.313Z",
+      "products": [
+        {
+          "productId": "p10",
+          "name": "Cinthol Lime Soap 4-pack",
+          "quantity": 1,
+          "price": 145,
+          "total": 145,
+          "gstRate": 12,
+          "gstAmount": 17
+        },
+        {
+          "productId": "p9",
+          "name": "Dettol Liquid Handwash 200ml",
+          "quantity": 2,
+          "price": 99,
+          "total": 198,
+          "gstRate": 12,
+          "gstAmount": 24
+        },
+        {
+          "productId": "p8",
+          "name": "Madhur Pure Sugar 1kg",
+          "quantity": 1,
+          "price": 48,
+          "total": 48,
+          "gstRate": 5,
+          "gstAmount": 2
+        }
+      ],
+      "subtotal": 391,
+      "tax": 43,
+      "total": 434,
+      "paymentMethod": "CARD"
+    },
+    {
+      "id": "s12",
+      "invoiceNumber": "VM-1012",
+      "customerId": "c38",
+      "customerName": "Sanjay Mishra",
+      "date": "2026-06-18T21:35:42.312Z",
+      "products": [
+        {
+          "productId": "p1",
+          "name": "Amul Gold Milk 1L",
+          "quantity": 1,
+          "price": 66,
+          "total": 66,
+          "gstRate": 0,
+          "gstAmount": 0
+        }
+      ],
+      "subtotal": 66,
+      "tax": 0,
+      "total": 66,
+      "paymentMethod": "UPI"
+    },
+    {
+      "id": "s57",
+      "invoiceNumber": "VM-1057",
+      "customerId": "c26",
+      "customerName": "Arjun Shenoy",
+      "date": "2026-06-18T09:07:42.313Z",
+      "products": [
+        {
+          "productId": "p4",
+          "name": "Tata Salt 1kg",
+          "quantity": 1,
+          "price": 28,
+          "total": 28,
+          "gstRate": 12,
+          "gstAmount": 3
+        },
+        {
+          "productId": "p2",
+          "name": "Aashirvaad Shudh Chakki Atta 5kg",
+          "quantity": 2,
+          "price": 260,
+          "total": 520,
+          "gstRate": 5,
+          "gstAmount": 26
+        }
+      ],
+      "subtotal": 548,
+      "tax": 29,
+      "total": 577,
+      "paymentMethod": "UPI"
+    },
+    {
+      "id": "s17",
+      "invoiceNumber": "VM-1017",
+      "customerId": "c60",
+      "customerName": "Alok Saxena",
+      "date": "2026-06-17T04:50:42.312Z",
+      "products": [
+        {
+          "productId": "p1",
+          "name": "Amul Gold Milk 1L",
+          "quantity": 2,
+          "price": 66,
+          "total": 132,
+          "gstRate": 0,
+          "gstAmount": 0
+        },
+        {
+          "productId": "p4",
+          "name": "Tata Salt 1kg",
+          "quantity": 1,
+          "price": 28,
+          "total": 28,
+          "gstRate": 12,
+          "gstAmount": 3
+        }
+      ],
+      "subtotal": 160,
+      "tax": 3,
+      "total": 163,
+      "paymentMethod": "UPI"
+    },
+    {
+      "id": "s31",
+      "invoiceNumber": "VM-1031",
+      "customerId": "c58",
+      "customerName": "Gaurav Bose",
+      "date": "2026-06-15T20:22:42.312Z",
+      "products": [
+        {
+          "productId": "p4",
+          "name": "Tata Salt 1kg",
+          "quantity": 1,
+          "price": 28,
+          "total": 28,
+          "gstRate": 12,
+          "gstAmount": 3
+        },
+        {
+          "productId": "p7",
+          "name": "Taj Mahal Tea 500g",
+          "quantity": 2,
+          "price": 340,
+          "total": 680,
+          "gstRate": 12,
+          "gstAmount": 82
+        }
+      ],
+      "subtotal": 708,
+      "tax": 85,
+      "total": 793,
+      "paymentMethod": "CARD"
+    },
+    {
+      "id": "s47",
+      "invoiceNumber": "VM-1047",
+      "customerId": "c44",
+      "customerName": "Sunita Singh",
+      "date": "2026-06-15T19:17:42.313Z",
+      "products": [
+        {
+          "productId": "p6",
+          "name": "Maggi 2-Min Noodles 12-Pack",
+          "quantity": 1,
+          "price": 168,
+          "total": 168,
+          "gstRate": 12,
+          "gstAmount": 20
+        },
+        {
+          "productId": "p2",
+          "name": "Aashirvaad Shudh Chakki Atta 5kg",
+          "quantity": 1,
+          "price": 260,
+          "total": 260,
+          "gstRate": 5,
+          "gstAmount": 13
+        },
+        {
+          "productId": "p1",
+          "name": "Amul Gold Milk 1L",
+          "quantity": 1,
+          "price": 66,
+          "total": 66,
+          "gstRate": 0,
+          "gstAmount": 0
+        }
+      ],
+      "subtotal": 494,
+      "tax": 33,
+      "total": 527,
+      "paymentMethod": "UPI"
+    },
+    {
+      "id": "s40",
+      "invoiceNumber": "VM-1040",
+      "customerId": "c8",
+      "customerName": "Sneha Dubey",
+      "date": "2026-06-15T05:39:42.312Z",
+      "products": [
+        {
+          "productId": "p1",
+          "name": "Amul Gold Milk 1L",
+          "quantity": 1,
+          "price": 66,
+          "total": 66,
+          "gstRate": 0,
+          "gstAmount": 0
+        },
+        {
+          "productId": "p9",
+          "name": "Dettol Liquid Handwash 200ml",
+          "quantity": 1,
+          "price": 99,
+          "total": 99,
+          "gstRate": 12,
+          "gstAmount": 12
+        }
+      ],
+      "subtotal": 165,
+      "tax": 12,
+      "total": 177,
+      "paymentMethod": "CASH"
+    },
+    {
+      "id": "s29",
+      "invoiceNumber": "VM-1029",
+      "customerId": "c12",
+      "customerName": "Kartik Kumar",
+      "date": "2026-06-10T17:53:42.312Z",
+      "products": [
+        {
+          "productId": "p10",
+          "name": "Cinthol Lime Soap 4-pack",
+          "quantity": 1,
+          "price": 145,
+          "total": 145,
+          "gstRate": 12,
+          "gstAmount": 17
+        }
+      ],
+      "subtotal": 145,
+      "tax": 17,
+      "total": 162,
+      "paymentMethod": "UPI"
+    }
+  ],
+  "invoices": [
+    {
+      "id": "inv75",
+      "invoiceNumber": "VM-1075",
+      "customerName": "Gaurav Dutta",
+      "customerPhone": "+91 85341 47692",
+      "date": "2026-07-06T18:33:23.894Z",
+      "products": [
+        {
+          "productId": "p9",
+          "name": "Dettol Liquid Handwash 200ml",
+          "quantity": 1,
+          "price": 99,
+          "total": 99,
+          "gstRate": 12,
+          "gstAmount": 12
+        },
+        {
+          "productId": "p3",
+          "name": "Fortune Soya Health Oil 1L",
+          "quantity": 2,
+          "price": 145,
+          "total": 290,
+          "gstRate": 12,
+          "gstAmount": 35
+        }
+      ],
+      "subtotal": 389,
+      "tax": 47,
+      "total": 436,
+      "status": "PAID"
+    },
+    {
+      "id": "inv35",
+      "invoiceNumber": "VM-1035",
+      "customerName": "Arjun Choudhary",
+      "customerPhone": "+91 92103 07999",
+      "date": "2026-07-06T16:12:23.894Z",
+      "products": [
+        {
+          "productId": "p5",
+          "name": "Surf Excel Easy Wash 1kg",
+          "quantity": 2,
+          "price": 140,
+          "total": 280,
+          "gstRate": 12,
+          "gstAmount": 34
+        }
+      ],
+      "subtotal": 280,
+      "tax": 34,
+      "total": 314,
+      "status": "PAID"
+    },
+    {
+      "id": "inv69",
+      "invoiceNumber": "VM-1069",
+      "customerName": "Aisha Kumar",
+      "customerPhone": "+91 76298 51523",
+      "date": "2026-07-06T14:56:23.894Z",
+      "products": [
+        {
+          "productId": "p1",
+          "name": "Amul Gold Milk 1L",
+          "quantity": 1,
+          "price": 66,
+          "total": 66,
+          "gstRate": 0,
+          "gstAmount": 0
+        }
+      ],
+      "subtotal": 66,
+      "tax": 0,
+      "total": 66,
+      "status": "PAID"
+    },
+    {
+      "id": "inv46",
+      "invoiceNumber": "VM-1046",
+      "customerName": "Alok Shenoy",
+      "customerPhone": "+91 99594 15479",
+      "date": "2026-07-06T12:58:23.894Z",
+      "products": [
+        {
+          "productId": "p9",
+          "name": "Dettol Liquid Handwash 200ml",
+          "quantity": 2,
+          "price": 99,
+          "total": 198,
+          "gstRate": 12,
+          "gstAmount": 24
+        },
+        {
+          "productId": "p4",
+          "name": "Tata Salt 1kg",
+          "quantity": 2,
+          "price": 28,
+          "total": 56,
+          "gstRate": 12,
+          "gstAmount": 7
+        },
+        {
+          "productId": "p6",
+          "name": "Maggi 2-Min Noodles 12-Pack",
+          "quantity": 2,
+          "price": 168,
+          "total": 336,
+          "gstRate": 12,
+          "gstAmount": 40
+        }
+      ],
+      "subtotal": 590,
+      "tax": 71,
+      "total": 661,
+      "status": "PAID"
+    },
+    {
+      "id": "inv13",
+      "invoiceNumber": "VM-1013",
+      "customerName": "Nisha Choudhary",
+      "customerPhone": "+91 79604 13837",
+      "date": "2026-07-06T10:36:23.894Z",
+      "products": [
+        {
+          "productId": "p5",
+          "name": "Surf Excel Easy Wash 1kg",
+          "quantity": 1,
+          "price": 140,
+          "total": 140,
+          "gstRate": 12,
+          "gstAmount": 17
+        },
+        {
+          "productId": "p4",
+          "name": "Tata Salt 1kg",
+          "quantity": 2,
+          "price": 28,
+          "total": 56,
+          "gstRate": 12,
+          "gstAmount": 7
+        }
+      ],
+      "subtotal": 196,
+      "tax": 24,
+      "total": 220,
+      "status": "PAID"
+    },
+    {
+      "id": "inv21",
+      "invoiceNumber": "VM-1021",
+      "customerName": "Arjun Sharma",
+      "customerPhone": "+91 80387 57701",
+      "date": "2026-07-06T08:43:23.894Z",
+      "products": [
+        {
+          "productId": "p5",
+          "name": "Surf Excel Easy Wash 1kg",
+          "quantity": 2,
+          "price": 140,
+          "total": 280,
+          "gstRate": 12,
+          "gstAmount": 34
+        },
+        {
+          "productId": "p4",
+          "name": "Tata Salt 1kg",
+          "quantity": 1,
+          "price": 28,
+          "total": 28,
+          "gstRate": 12,
+          "gstAmount": 3
+        }
+      ],
+      "subtotal": 308,
+      "tax": 37,
+      "total": 345,
+      "status": "PAID"
+    },
+    {
+      "id": "inv68",
+      "invoiceNumber": "VM-1068",
+      "customerName": "Amit Rao",
+      "customerPhone": "+91 90864 04179",
+      "date": "2026-07-06T11:08:42.313Z",
+      "products": [
+        {
+          "productId": "p7",
+          "name": "Taj Mahal Tea 500g",
+          "quantity": 1,
+          "price": 340,
+          "total": 340,
+          "gstRate": 12,
+          "gstAmount": 41
+        }
+      ],
+      "subtotal": 340,
+      "tax": 41,
+      "total": 381,
+      "status": "PAID"
+    },
+    {
+      "id": "inv58",
+      "invoiceNumber": "VM-1058",
+      "customerName": "Vikram Ranjan",
+      "customerPhone": "+91 88293 70047",
+      "date": "2026-07-06T07:49:42.313Z",
+      "products": [
+        {
+          "productId": "p6",
+          "name": "Maggi 2-Min Noodles 12-Pack",
+          "quantity": 1,
+          "price": 168,
+          "total": 168,
+          "gstRate": 12,
+          "gstAmount": 20
+        }
+      ],
+      "subtotal": 168,
+      "tax": 20,
+      "total": 188,
+      "status": "PAID"
+    },
+    {
+      "id": "inv14",
+      "invoiceNumber": "VM-1014",
+      "customerName": "Kartik Kumar",
+      "customerPhone": "+91 78340 83030",
+      "date": "2026-07-06T05:12:42.312Z",
+      "products": [
+        {
+          "productId": "p4",
+          "name": "Tata Salt 1kg",
+          "quantity": 1,
+          "price": 28,
+          "total": 28,
+          "gstRate": 12,
+          "gstAmount": 3
+        }
+      ],
+      "subtotal": 28,
+      "tax": 3,
+      "total": 31,
+      "status": "PAID"
+    },
+    {
+      "id": "inv44",
+      "invoiceNumber": "VM-1044",
+      "customerName": "Divya Singh",
+      "customerPhone": "+91 95327 53358",
+      "date": "2026-07-06T02:07:42.313Z",
+      "products": [
+        {
+          "productId": "p3",
+          "name": "Fortune Soya Health Oil 1L",
+          "quantity": 2,
+          "price": 145,
+          "total": 290,
+          "gstRate": 12,
+          "gstAmount": 35
+        },
+        {
+          "productId": "p2",
+          "name": "Aashirvaad Shudh Chakki Atta 5kg",
+          "quantity": 2,
+          "price": 260,
+          "total": 520,
+          "gstRate": 5,
+          "gstAmount": 26
+        },
+        {
+          "productId": "p10",
+          "name": "Cinthol Lime Soap 4-pack",
+          "quantity": 2,
+          "price": 145,
+          "total": 290,
+          "gstRate": 12,
+          "gstAmount": 35
+        }
+      ],
+      "subtotal": 1100,
+      "tax": 96,
+      "total": 1196,
+      "status": "PAID"
+    },
+    {
+      "id": "inv54",
+      "invoiceNumber": "VM-1054",
+      "customerName": "Manish Nair",
+      "customerPhone": "+91 89965 67913",
+      "date": "2026-07-05T23:46:42.313Z",
+      "products": [
+        {
+          "productId": "p8",
+          "name": "Madhur Pure Sugar 1kg",
+          "quantity": 2,
+          "price": 48,
+          "total": 96,
+          "gstRate": 5,
+          "gstAmount": 5
+        },
+        {
+          "productId": "p1",
+          "name": "Amul Gold Milk 1L",
+          "quantity": 2,
+          "price": 66,
+          "total": 132,
+          "gstRate": 0,
+          "gstAmount": 0
+        },
+        {
+          "productId": "p2",
+          "name": "Aashirvaad Shudh Chakki Atta 5kg",
+          "quantity": 1,
+          "price": 260,
+          "total": 260,
+          "gstRate": 5,
+          "gstAmount": 13
+        }
+      ],
+      "subtotal": 488,
+      "tax": 18,
+      "total": 506,
+      "status": "PAID"
+    },
+    {
+      "id": "inv42",
+      "invoiceNumber": "VM-1042",
+      "customerName": "Amit Yadav",
+      "customerPhone": "+91 99343 56696",
+      "date": "2026-07-05T22:31:42.312Z",
+      "products": [
+        {
+          "productId": "p8",
+          "name": "Madhur Pure Sugar 1kg",
+          "quantity": 1,
+          "price": 48,
+          "total": 48,
+          "gstRate": 5,
+          "gstAmount": 2
+        }
+      ],
+      "subtotal": 48,
+      "tax": 2,
+      "total": 50,
+      "status": "PAID"
+    },
+    {
+      "id": "inv27",
+      "invoiceNumber": "VM-1027",
+      "customerName": "Komal Yadav",
+      "customerPhone": "+91 78480 81786",
+      "date": "2026-07-05T20:27:42.312Z",
+      "products": [
+        {
+          "productId": "p8",
+          "name": "Madhur Pure Sugar 1kg",
+          "quantity": 2,
+          "price": 48,
+          "total": 96,
+          "gstRate": 5,
+          "gstAmount": 5
+        },
+        {
+          "productId": "p7",
+          "name": "Taj Mahal Tea 500g",
+          "quantity": 2,
+          "price": 340,
+          "total": 680,
+          "gstRate": 12,
+          "gstAmount": 82
+        }
+      ],
+      "subtotal": 776,
+      "tax": 87,
+      "total": 863,
+      "status": "PAID"
+    },
+    {
+      "id": "inv37",
+      "invoiceNumber": "VM-1037",
+      "customerName": "Amit Yadav",
+      "customerPhone": "+91 99343 56696",
+      "date": "2026-07-05T20:20:42.312Z",
+      "products": [
+        {
+          "productId": "p1",
+          "name": "Amul Gold Milk 1L",
+          "quantity": 2,
+          "price": 66,
+          "total": 132,
+          "gstRate": 0,
+          "gstAmount": 0
+        },
+        {
+          "productId": "p2",
+          "name": "Aashirvaad Shudh Chakki Atta 5kg",
+          "quantity": 2,
+          "price": 260,
+          "total": 520,
+          "gstRate": 5,
+          "gstAmount": 26
+        }
+      ],
+      "subtotal": 652,
+      "tax": 26,
+      "total": 678,
+      "status": "PAID"
+    },
+    {
+      "id": "inv34",
+      "invoiceNumber": "VM-1034",
+      "customerName": "Meera Saxena",
+      "customerPhone": "+91 86130 68699",
+      "date": "2026-07-05T20:11:42.312Z",
+      "products": [
+        {
+          "productId": "p1",
+          "name": "Amul Gold Milk 1L",
+          "quantity": 1,
+          "price": 66,
+          "total": 66,
+          "gstRate": 0,
+          "gstAmount": 0
+        }
+      ],
+      "subtotal": 66,
+      "tax": 0,
+      "total": 66,
+      "status": "UNPAID"
+    },
+    {
+      "id": "inv33",
+      "invoiceNumber": "VM-1033",
+      "customerName": "Pranav Ranjan",
+      "customerPhone": "+91 83394 81725",
+      "date": "2026-07-05T19:44:42.312Z",
+      "products": [
+        {
+          "productId": "p7",
+          "name": "Taj Mahal Tea 500g",
+          "quantity": 2,
+          "price": 340,
+          "total": 680,
+          "gstRate": 12,
+          "gstAmount": 82
+        },
+        {
+          "productId": "p1",
+          "name": "Amul Gold Milk 1L",
+          "quantity": 2,
+          "price": 66,
+          "total": 132,
+          "gstRate": 0,
+          "gstAmount": 0
+        }
+      ],
+      "subtotal": 812,
+      "tax": 82,
+      "total": 894,
+      "status": "PAID"
+    },
+    {
+      "id": "inv73",
+      "invoiceNumber": "VM-1073",
+      "customerName": "Pranav Reddy",
+      "customerPhone": "+91 89871 07621",
+      "date": "2026-07-05T16:48:42.313Z",
+      "products": [
+        {
+          "productId": "p2",
+          "name": "Aashirvaad Shudh Chakki Atta 5kg",
+          "quantity": 2,
+          "price": 260,
+          "total": 520,
+          "gstRate": 5,
+          "gstAmount": 26
+        },
+        {
+          "productId": "p5",
+          "name": "Surf Excel Easy Wash 1kg",
+          "quantity": 1,
+          "price": 140,
+          "total": 140,
+          "gstRate": 12,
+          "gstAmount": 17
+        },
+        {
+          "productId": "p4",
+          "name": "Tata Salt 1kg",
+          "quantity": 2,
+          "price": 28,
+          "total": 56,
+          "gstRate": 12,
+          "gstAmount": 7
+        }
+      ],
+      "subtotal": 716,
+      "tax": 50,
+      "total": 766,
+      "status": "PAID"
+    },
+    {
+      "id": "inv6",
+      "invoiceNumber": "VM-1006",
+      "customerName": "Pooja Choudhary",
+      "customerPhone": "+91 80634 58589",
+      "date": "2026-07-05T15:46:42.312Z",
+      "products": [
+        {
+          "productId": "p2",
+          "name": "Aashirvaad Shudh Chakki Atta 5kg",
+          "quantity": 1,
+          "price": 260,
+          "total": 260,
+          "gstRate": 5,
+          "gstAmount": 13
+        },
+        {
+          "productId": "p4",
+          "name": "Tata Salt 1kg",
+          "quantity": 2,
+          "price": 28,
+          "total": 56,
+          "gstRate": 12,
+          "gstAmount": 7
+        },
+        {
+          "productId": "p10",
+          "name": "Cinthol Lime Soap 4-pack",
+          "quantity": 1,
+          "price": 145,
+          "total": 145,
+          "gstRate": 12,
+          "gstAmount": 17
+        }
+      ],
+      "subtotal": 461,
+      "tax": 37,
+      "total": 498,
+      "status": "PAID"
+    },
+    {
+      "id": "inv32",
+      "invoiceNumber": "VM-1032",
+      "customerName": "Alok Saxena",
+      "customerPhone": "+91 98708 10502",
+      "date": "2026-07-05T12:33:42.312Z",
+      "products": [
+        {
+          "productId": "p4",
+          "name": "Tata Salt 1kg",
+          "quantity": 2,
+          "price": 28,
+          "total": 56,
+          "gstRate": 12,
+          "gstAmount": 7
+        },
+        {
+          "productId": "p9",
+          "name": "Dettol Liquid Handwash 200ml",
+          "quantity": 2,
+          "price": 99,
+          "total": 198,
+          "gstRate": 12,
+          "gstAmount": 24
+        },
+        {
+          "productId": "p10",
+          "name": "Cinthol Lime Soap 4-pack",
+          "quantity": 1,
+          "price": 145,
+          "total": 145,
+          "gstRate": 12,
+          "gstAmount": 17
+        }
+      ],
+      "subtotal": 399,
+      "tax": 48,
+      "total": 447,
+      "status": "PAID"
+    },
+    {
+      "id": "inv5",
+      "invoiceNumber": "VM-1005",
+      "customerName": "Swati Desai",
+      "customerPhone": "+91 99497 16971",
+      "date": "2026-07-05T08:39:42.312Z",
+      "products": [
+        {
+          "productId": "p1",
+          "name": "Amul Gold Milk 1L",
+          "quantity": 2,
+          "price": 66,
+          "total": 132,
+          "gstRate": 0,
+          "gstAmount": 0
+        },
+        {
+          "productId": "p2",
+          "name": "Aashirvaad Shudh Chakki Atta 5kg",
+          "quantity": 1,
+          "price": 260,
+          "total": 260,
+          "gstRate": 5,
+          "gstAmount": 13
+        }
+      ],
+      "subtotal": 392,
+      "tax": 13,
+      "total": 405,
+      "status": "PAID"
+    },
+    {
+      "id": "inv23",
+      "invoiceNumber": "VM-1023",
+      "customerName": "Divya Singh",
+      "customerPhone": "+91 95327 53358",
+      "date": "2026-07-05T08:39:42.312Z",
+      "products": [
+        {
+          "productId": "p1",
+          "name": "Amul Gold Milk 1L",
+          "quantity": 1,
+          "price": 66,
+          "total": 66,
+          "gstRate": 0,
+          "gstAmount": 0
+        }
+      ],
+      "subtotal": 66,
+      "tax": 0,
+      "total": 66,
+      "status": "PAID"
+    },
+    {
+      "id": "inv25",
+      "invoiceNumber": "VM-1025",
+      "customerName": "Ramesh Verma",
+      "customerPhone": "+91 96878 63094",
+      "date": "2026-07-05T02:36:42.312Z",
+      "products": [
+        {
+          "productId": "p4",
+          "name": "Tata Salt 1kg",
+          "quantity": 1,
+          "price": 28,
+          "total": 28,
+          "gstRate": 12,
+          "gstAmount": 3
+        },
+        {
+          "productId": "p6",
+          "name": "Maggi 2-Min Noodles 12-Pack",
+          "quantity": 1,
+          "price": 168,
+          "total": 168,
+          "gstRate": 12,
+          "gstAmount": 20
+        },
+        {
+          "productId": "p7",
+          "name": "Taj Mahal Tea 500g",
+          "quantity": 2,
+          "price": 340,
+          "total": 680,
+          "gstRate": 12,
+          "gstAmount": 82
+        }
+      ],
+      "subtotal": 876,
+      "tax": 105,
+      "total": 981,
+      "status": "PAID"
+    },
+    {
+      "id": "inv22",
+      "invoiceNumber": "VM-1022",
+      "customerName": "Pranav Reddy",
+      "customerPhone": "+91 89871 07621",
+      "date": "2026-07-04T18:56:42.312Z",
+      "products": [
+        {
+          "productId": "p6",
+          "name": "Maggi 2-Min Noodles 12-Pack",
+          "quantity": 2,
+          "price": 168,
+          "total": 336,
+          "gstRate": 12,
+          "gstAmount": 40
+        },
+        {
+          "productId": "p2",
+          "name": "Aashirvaad Shudh Chakki Atta 5kg",
+          "quantity": 1,
+          "price": 260,
+          "total": 260,
+          "gstRate": 5,
+          "gstAmount": 13
+        },
+        {
+          "productId": "p10",
+          "name": "Cinthol Lime Soap 4-pack",
+          "quantity": 1,
+          "price": 145,
+          "total": 145,
+          "gstRate": 12,
+          "gstAmount": 17
+        }
+      ],
+      "subtotal": 741,
+      "tax": 70,
+      "total": 811,
+      "status": "PAID"
+    },
+    {
+      "id": "inv65",
+      "invoiceNumber": "VM-1065",
+      "customerName": "Sunita Kumar",
+      "customerPhone": "+91 80748 91769",
+      "date": "2026-07-04T18:03:42.313Z",
+      "products": [
+        {
+          "productId": "p3",
+          "name": "Fortune Soya Health Oil 1L",
+          "quantity": 1,
+          "price": 145,
+          "total": 145,
+          "gstRate": 12,
+          "gstAmount": 17
+        }
+      ],
+      "subtotal": 145,
+      "tax": 17,
+      "total": 162,
+      "status": "PAID"
+    },
+    {
+      "id": "inv64",
+      "invoiceNumber": "VM-1064",
+      "customerName": "Gaurav Bose",
+      "customerPhone": "+91 90066 50663",
+      "date": "2026-07-04T09:28:42.313Z",
+      "products": [
+        {
+          "productId": "p4",
+          "name": "Tata Salt 1kg",
+          "quantity": 2,
+          "price": 28,
+          "total": 56,
+          "gstRate": 12,
+          "gstAmount": 7
+        },
+        {
+          "productId": "p5",
+          "name": "Surf Excel Easy Wash 1kg",
+          "quantity": 2,
+          "price": 140,
+          "total": 280,
+          "gstRate": 12,
+          "gstAmount": 34
+        }
+      ],
+      "subtotal": 336,
+      "tax": 41,
+      "total": 377,
+      "status": "PAID"
+    },
+    {
+      "id": "inv50",
+      "invoiceNumber": "VM-1050",
+      "customerName": "Aditi Dubey",
+      "customerPhone": "+91 71682 04585",
+      "date": "2026-07-04T04:41:42.313Z",
+      "products": [
+        {
+          "productId": "p1",
+          "name": "Amul Gold Milk 1L",
+          "quantity": 1,
+          "price": 66,
+          "total": 66,
+          "gstRate": 0,
+          "gstAmount": 0
+        },
+        {
+          "productId": "p6",
+          "name": "Maggi 2-Min Noodles 12-Pack",
+          "quantity": 2,
+          "price": 168,
+          "total": 336,
+          "gstRate": 12,
+          "gstAmount": 40
+        }
+      ],
+      "subtotal": 402,
+      "tax": 40,
+      "total": 442,
+      "status": "PAID"
+    },
+    {
+      "id": "inv43",
+      "invoiceNumber": "VM-1043",
+      "customerName": "Kiran Singh",
+      "customerPhone": "+91 98224 70935",
+      "date": "2026-07-04T04:06:42.312Z",
+      "products": [
+        {
+          "productId": "p5",
+          "name": "Surf Excel Easy Wash 1kg",
+          "quantity": 2,
+          "price": 140,
+          "total": 280,
+          "gstRate": 12,
+          "gstAmount": 34
+        },
+        {
+          "productId": "p4",
+          "name": "Tata Salt 1kg",
+          "quantity": 2,
+          "price": 28,
+          "total": 56,
+          "gstRate": 12,
+          "gstAmount": 7
+        }
+      ],
+      "subtotal": 336,
+      "tax": 41,
+      "total": 377,
+      "status": "PAID"
+    },
+    {
+      "id": "inv45",
+      "invoiceNumber": "VM-1045",
+      "customerName": "Vikram Yadav",
+      "customerPhone": "+91 98879 84037",
+      "date": "2026-07-04T00:34:42.313Z",
+      "products": [
+        {
+          "productId": "p4",
+          "name": "Tata Salt 1kg",
+          "quantity": 2,
+          "price": 28,
+          "total": 56,
+          "gstRate": 12,
+          "gstAmount": 7
+        }
+      ],
+      "subtotal": 56,
+      "tax": 7,
+      "total": 63,
+      "status": "UNPAID"
+    },
+    {
+      "id": "inv2",
+      "invoiceNumber": "VM-1002",
+      "customerName": "Sunita Rao",
+      "customerPhone": "+91 99887 76655",
+      "date": "2026-07-03T21:30:42.312Z",
+      "products": [
+        {
+          "productId": "p4",
+          "name": "Tata Salt 1kg",
+          "quantity": 1,
+          "price": 28,
+          "total": 28,
+          "gstRate": 12,
+          "gstAmount": 3
+        },
+        {
+          "productId": "p1",
+          "name": "Amul Gold Milk 1L",
+          "quantity": 1,
+          "price": 66,
+          "total": 66,
+          "gstRate": 0,
+          "gstAmount": 0
+        },
+        {
+          "productId": "p5",
+          "name": "Surf Excel Easy Wash 1kg",
+          "quantity": 2,
+          "price": 140,
+          "total": 280,
+          "gstRate": 12,
+          "gstAmount": 34
+        }
+      ],
+      "subtotal": 374,
+      "tax": 37,
+      "total": 411,
+      "status": "PAID"
+    },
+    {
+      "id": "inv8",
+      "invoiceNumber": "VM-1008",
+      "customerName": "Alok Shenoy",
+      "customerPhone": "+91 99594 15479",
+      "date": "2026-07-03T18:32:42.312Z",
+      "products": [
+        {
+          "productId": "p6",
+          "name": "Maggi 2-Min Noodles 12-Pack",
+          "quantity": 1,
+          "price": 168,
+          "total": 168,
+          "gstRate": 12,
+          "gstAmount": 20
+        },
+        {
+          "productId": "p1",
+          "name": "Amul Gold Milk 1L",
+          "quantity": 2,
+          "price": 66,
+          "total": 132,
+          "gstRate": 0,
+          "gstAmount": 0
+        }
+      ],
+      "subtotal": 300,
+      "tax": 20,
+      "total": 320,
+      "status": "PAID"
+    },
+    {
+      "id": "inv72",
+      "invoiceNumber": "VM-1072",
+      "customerName": "Nisha Mehta",
+      "customerPhone": "+91 99528 22818",
+      "date": "2026-07-03T16:32:42.313Z",
+      "products": [
+        {
+          "productId": "p6",
+          "name": "Maggi 2-Min Noodles 12-Pack",
+          "quantity": 1,
+          "price": 168,
+          "total": 168,
+          "gstRate": 12,
+          "gstAmount": 20
+        }
+      ],
+      "subtotal": 168,
+      "tax": 20,
+      "total": 188,
+      "status": "PAID"
+    },
+    {
+      "id": "inv41",
+      "invoiceNumber": "VM-1041",
+      "customerName": "Pranav Reddy",
+      "customerPhone": "+91 89871 07621",
+      "date": "2026-07-03T16:28:42.312Z",
+      "products": [
+        {
+          "productId": "p1",
+          "name": "Amul Gold Milk 1L",
+          "quantity": 2,
+          "price": 66,
+          "total": 132,
+          "gstRate": 0,
+          "gstAmount": 0
+        },
+        {
+          "productId": "p2",
+          "name": "Aashirvaad Shudh Chakki Atta 5kg",
+          "quantity": 2,
+          "price": 260,
+          "total": 520,
+          "gstRate": 5,
+          "gstAmount": 26
+        }
+      ],
+      "subtotal": 652,
+      "tax": 26,
+      "total": 678,
+      "status": "PAID"
+    },
+    {
+      "id": "inv71",
+      "invoiceNumber": "VM-1071",
+      "customerName": "Pooja Choudhary",
+      "customerPhone": "+91 80634 58589",
+      "date": "2026-07-03T12:04:42.313Z",
+      "products": [
+        {
+          "productId": "p8",
+          "name": "Madhur Pure Sugar 1kg",
+          "quantity": 1,
+          "price": 48,
+          "total": 48,
+          "gstRate": 5,
+          "gstAmount": 2
+        }
+      ],
+      "subtotal": 48,
+      "tax": 2,
+      "total": 50,
+      "status": "PAID"
+    },
+    {
+      "id": "inv59",
+      "invoiceNumber": "VM-1059",
+      "customerName": "Shruti Reddy",
+      "customerPhone": "+91 97725 37137",
+      "date": "2026-07-03T07:38:42.313Z",
+      "products": [
+        {
+          "productId": "p3",
+          "name": "Fortune Soya Health Oil 1L",
+          "quantity": 2,
+          "price": 145,
+          "total": 290,
+          "gstRate": 12,
+          "gstAmount": 35
+        },
+        {
+          "productId": "p2",
+          "name": "Aashirvaad Shudh Chakki Atta 5kg",
+          "quantity": 2,
+          "price": 260,
+          "total": 520,
+          "gstRate": 5,
+          "gstAmount": 26
+        },
+        {
+          "productId": "p1",
+          "name": "Amul Gold Milk 1L",
+          "quantity": 1,
+          "price": 66,
+          "total": 66,
+          "gstRate": 0,
+          "gstAmount": 0
+        }
+      ],
+      "subtotal": 876,
+      "tax": 61,
+      "total": 937,
+      "status": "PAID"
+    },
+    {
+      "id": "inv66",
+      "invoiceNumber": "VM-1066",
+      "customerName": "Divya Singh",
+      "customerPhone": "+91 95327 53358",
+      "date": "2026-07-03T03:47:42.313Z",
+      "products": [
+        {
+          "productId": "p5",
+          "name": "Surf Excel Easy Wash 1kg",
+          "quantity": 1,
+          "price": 140,
+          "total": 140,
+          "gstRate": 12,
+          "gstAmount": 17
+        }
+      ],
+      "subtotal": 140,
+      "tax": 17,
+      "total": 157,
+      "status": "PAID"
+    },
+    {
+      "id": "inv51",
+      "invoiceNumber": "VM-1051",
+      "customerName": "Amit Dubey",
+      "customerPhone": "+91 91723 55862",
+      "date": "2026-07-03T02:49:42.313Z",
+      "products": [
+        {
+          "productId": "p3",
+          "name": "Fortune Soya Health Oil 1L",
+          "quantity": 1,
+          "price": 145,
+          "total": 145,
+          "gstRate": 12,
+          "gstAmount": 17
+        },
+        {
+          "productId": "p5",
+          "name": "Surf Excel Easy Wash 1kg",
+          "quantity": 1,
+          "price": 140,
+          "total": 140,
+          "gstRate": 12,
+          "gstAmount": 17
+        }
+      ],
+      "subtotal": 285,
+      "tax": 34,
+      "total": 319,
+      "status": "PAID"
+    },
+    {
+      "id": "inv3",
+      "invoiceNumber": "VM-1003",
+      "customerName": "Amit Desai",
+      "customerPhone": "+91 82782 62007",
+      "date": "2026-07-03T00:39:42.312Z",
+      "products": [
+        {
+          "productId": "p1",
+          "name": "Amul Gold Milk 1L",
+          "quantity": 1,
+          "price": 66,
+          "total": 66,
+          "gstRate": 0,
+          "gstAmount": 0
+        }
+      ],
+      "subtotal": 66,
+      "tax": 0,
+      "total": 66,
+      "status": "PAID"
+    },
+    {
+      "id": "inv4",
+      "invoiceNumber": "VM-1004",
+      "customerName": "Sunita Ranjan",
+      "customerPhone": "+91 95876 24224",
+      "date": "2026-07-02T19:47:42.312Z",
+      "products": [
+        {
+          "productId": "p6",
+          "name": "Maggi 2-Min Noodles 12-Pack",
+          "quantity": 1,
+          "price": 168,
+          "total": 168,
+          "gstRate": 12,
+          "gstAmount": 20
+        },
+        {
+          "productId": "p9",
+          "name": "Dettol Liquid Handwash 200ml",
+          "quantity": 1,
+          "price": 99,
+          "total": 99,
+          "gstRate": 12,
+          "gstAmount": 12
+        },
+        {
+          "productId": "p8",
+          "name": "Madhur Pure Sugar 1kg",
+          "quantity": 1,
+          "price": 48,
+          "total": 48,
+          "gstRate": 5,
+          "gstAmount": 2
+        }
+      ],
+      "subtotal": 315,
+      "tax": 34,
+      "total": 349,
+      "status": "PAID"
+    },
+    {
+      "id": "inv60",
+      "invoiceNumber": "VM-1060",
+      "customerName": "Suresh Patel",
+      "customerPhone": "+91 72091 67877",
+      "date": "2026-07-02T03:47:42.313Z",
+      "products": [
+        {
+          "productId": "p8",
+          "name": "Madhur Pure Sugar 1kg",
+          "quantity": 1,
+          "price": 48,
+          "total": 48,
+          "gstRate": 5,
+          "gstAmount": 2
+        },
+        {
+          "productId": "p7",
+          "name": "Taj Mahal Tea 500g",
+          "quantity": 1,
+          "price": 340,
+          "total": 340,
+          "gstRate": 12,
+          "gstAmount": 41
+        }
+      ],
+      "subtotal": 388,
+      "tax": 43,
+      "total": 431,
+      "status": "PAID"
+    },
+    {
+      "id": "inv70",
+      "invoiceNumber": "VM-1070",
+      "customerName": "Komal Yadav",
+      "customerPhone": "+91 78480 81786",
+      "date": "2026-07-01T20:18:42.313Z",
+      "products": [
+        {
+          "productId": "p1",
+          "name": "Amul Gold Milk 1L",
+          "quantity": 2,
+          "price": 66,
+          "total": 132,
+          "gstRate": 0,
+          "gstAmount": 0
+        },
+        {
+          "productId": "p2",
+          "name": "Aashirvaad Shudh Chakki Atta 5kg",
+          "quantity": 2,
+          "price": 260,
+          "total": 520,
+          "gstRate": 5,
+          "gstAmount": 26
+        }
+      ],
+      "subtotal": 652,
+      "tax": 26,
+      "total": 678,
+      "status": "PAID"
+    },
+    {
+      "id": "inv53",
+      "invoiceNumber": "VM-1053",
+      "customerName": "Shruti Reddy",
+      "customerPhone": "+91 97725 37137",
+      "date": "2026-07-01T17:16:42.313Z",
+      "products": [
+        {
+          "productId": "p1",
+          "name": "Amul Gold Milk 1L",
+          "quantity": 1,
+          "price": 66,
+          "total": 66,
+          "gstRate": 0,
+          "gstAmount": 0
+        }
+      ],
+      "subtotal": 66,
+      "tax": 0,
+      "total": 66,
+      "status": "PAID"
+    },
+    {
+      "id": "inv20",
+      "invoiceNumber": "VM-1020",
+      "customerName": "Arjun Saxena",
+      "customerPhone": "+91 77196 28621",
+      "date": "2026-07-01T05:52:42.312Z",
+      "products": [
+        {
+          "productId": "p7",
+          "name": "Taj Mahal Tea 500g",
+          "quantity": 2,
+          "price": 340,
+          "total": 680,
+          "gstRate": 12,
+          "gstAmount": 82
+        },
+        {
+          "productId": "p8",
+          "name": "Madhur Pure Sugar 1kg",
+          "quantity": 2,
+          "price": 48,
+          "total": 96,
+          "gstRate": 5,
+          "gstAmount": 5
+        },
+        {
+          "productId": "p1",
+          "name": "Amul Gold Milk 1L",
+          "quantity": 2,
+          "price": 66,
+          "total": 132,
+          "gstRate": 0,
+          "gstAmount": 0
+        }
+      ],
+      "subtotal": 908,
+      "tax": 87,
+      "total": 995,
+      "status": "UNPAID"
+    },
+    {
+      "id": "inv38",
+      "invoiceNumber": "VM-1038",
+      "customerName": "Arjun Nair",
+      "customerPhone": "+91 91495 32350",
+      "date": "2026-07-01T04:12:42.312Z",
+      "products": [
+        {
+          "productId": "p1",
+          "name": "Amul Gold Milk 1L",
+          "quantity": 1,
+          "price": 66,
+          "total": 66,
+          "gstRate": 0,
+          "gstAmount": 0
+        },
+        {
+          "productId": "p7",
+          "name": "Taj Mahal Tea 500g",
+          "quantity": 1,
+          "price": 340,
+          "total": 340,
+          "gstRate": 12,
+          "gstAmount": 41
+        },
+        {
+          "productId": "p2",
+          "name": "Aashirvaad Shudh Chakki Atta 5kg",
+          "quantity": 2,
+          "price": 260,
+          "total": 520,
+          "gstRate": 5,
+          "gstAmount": 26
+        }
+      ],
+      "subtotal": 926,
+      "tax": 67,
+      "total": 993,
+      "status": "PAID"
+    },
+    {
+      "id": "inv10",
+      "invoiceNumber": "VM-1010",
+      "customerName": "Suresh Patel",
+      "customerPhone": "+91 72091 67877",
+      "date": "2026-06-30T16:10:42.312Z",
+      "products": [
+        {
+          "productId": "p8",
+          "name": "Madhur Pure Sugar 1kg",
+          "quantity": 2,
+          "price": 48,
+          "total": 96,
+          "gstRate": 5,
+          "gstAmount": 5
+        },
+        {
+          "productId": "p4",
+          "name": "Tata Salt 1kg",
+          "quantity": 1,
+          "price": 28,
+          "total": 28,
+          "gstRate": 12,
+          "gstAmount": 3
+        },
+        {
+          "productId": "p10",
+          "name": "Cinthol Lime Soap 4-pack",
+          "quantity": 1,
+          "price": 145,
+          "total": 145,
+          "gstRate": 12,
+          "gstAmount": 17
+        }
+      ],
+      "subtotal": 269,
+      "tax": 25,
+      "total": 294,
+      "status": "PAID"
+    },
+    {
+      "id": "inv7",
+      "invoiceNumber": "VM-1007",
+      "customerName": "Arjun Choudhary",
+      "customerPhone": "+91 92103 07999",
+      "date": "2026-06-30T01:13:42.312Z",
+      "products": [
+        {
+          "productId": "p1",
+          "name": "Amul Gold Milk 1L",
+          "quantity": 1,
+          "price": 66,
+          "total": 66,
+          "gstRate": 0,
+          "gstAmount": 0
+        },
+        {
+          "productId": "p8",
+          "name": "Madhur Pure Sugar 1kg",
+          "quantity": 1,
+          "price": 48,
+          "total": 48,
+          "gstRate": 5,
+          "gstAmount": 2
+        }
+      ],
+      "subtotal": 114,
+      "tax": 2,
+      "total": 116,
+      "status": "PAID"
+    },
+    {
+      "id": "inv19",
+      "invoiceNumber": "VM-1019",
+      "customerName": "Nisha Rao",
+      "customerPhone": "+91 88960 30699",
+      "date": "2026-06-29T20:14:42.312Z",
+      "products": [
+        {
+          "productId": "p1",
+          "name": "Amul Gold Milk 1L",
+          "quantity": 2,
+          "price": 66,
+          "total": 132,
+          "gstRate": 0,
+          "gstAmount": 0
+        },
+        {
+          "productId": "p5",
+          "name": "Surf Excel Easy Wash 1kg",
+          "quantity": 1,
+          "price": 140,
+          "total": 140,
+          "gstRate": 12,
+          "gstAmount": 17
+        }
+      ],
+      "subtotal": 272,
+      "tax": 17,
+      "total": 289,
+      "status": "PAID"
+    },
+    {
+      "id": "inv11",
+      "invoiceNumber": "VM-1011",
+      "customerName": "Manish Nair",
+      "customerPhone": "+91 89965 67913",
+      "date": "2026-06-29T18:44:42.312Z",
+      "products": [
+        {
+          "productId": "p1",
+          "name": "Amul Gold Milk 1L",
+          "quantity": 2,
+          "price": 66,
+          "total": 132,
+          "gstRate": 0,
+          "gstAmount": 0
+        },
+        {
+          "productId": "p2",
+          "name": "Aashirvaad Shudh Chakki Atta 5kg",
+          "quantity": 2,
+          "price": 260,
+          "total": 520,
+          "gstRate": 5,
+          "gstAmount": 26
+        },
+        {
+          "productId": "p8",
+          "name": "Madhur Pure Sugar 1kg",
+          "quantity": 2,
+          "price": 48,
+          "total": 96,
+          "gstRate": 5,
+          "gstAmount": 5
+        }
+      ],
+      "subtotal": 748,
+      "tax": 31,
+      "total": 779,
+      "status": "PAID"
+    },
+    {
+      "id": "inv63",
+      "invoiceNumber": "VM-1063",
+      "customerName": "Sunita Rao",
+      "customerPhone": "+91 99887 76655",
+      "date": "2026-06-29T17:25:42.313Z",
+      "products": [
+        {
+          "productId": "p4",
+          "name": "Tata Salt 1kg",
+          "quantity": 1,
+          "price": 28,
+          "total": 28,
+          "gstRate": 12,
+          "gstAmount": 3
+        },
+        {
+          "productId": "p3",
+          "name": "Fortune Soya Health Oil 1L",
+          "quantity": 1,
+          "price": 145,
+          "total": 145,
+          "gstRate": 12,
+          "gstAmount": 17
+        },
+        {
+          "productId": "p10",
+          "name": "Cinthol Lime Soap 4-pack",
+          "quantity": 1,
+          "price": 145,
+          "total": 145,
+          "gstRate": 12,
+          "gstAmount": 17
+        }
+      ],
+      "subtotal": 318,
+      "tax": 37,
+      "total": 355,
+      "status": "PAID"
+    },
+    {
+      "id": "inv16",
+      "invoiceNumber": "VM-1016",
+      "customerName": "Komal Narayanan",
+      "customerPhone": "+91 87339 14560",
+      "date": "2026-06-29T03:33:42.312Z",
+      "products": [
+        {
+          "productId": "p4",
+          "name": "Tata Salt 1kg",
+          "quantity": 2,
+          "price": 28,
+          "total": 56,
+          "gstRate": 12,
+          "gstAmount": 7
+        },
+        {
+          "productId": "p3",
+          "name": "Fortune Soya Health Oil 1L",
+          "quantity": 2,
+          "price": 145,
+          "total": 290,
+          "gstRate": 12,
+          "gstAmount": 35
+        },
+        {
+          "productId": "p9",
+          "name": "Dettol Liquid Handwash 200ml",
+          "quantity": 2,
+          "price": 99,
+          "total": 198,
+          "gstRate": 12,
+          "gstAmount": 24
+        }
+      ],
+      "subtotal": 544,
+      "tax": 66,
+      "total": 610,
+      "status": "PAID"
+    },
+    {
+      "id": "inv61",
+      "invoiceNumber": "VM-1061",
+      "customerName": "Priya Patel",
+      "customerPhone": "+91 98123 45678",
+      "date": "2026-06-29T01:01:42.313Z",
+      "products": [
+        {
+          "productId": "p1",
+          "name": "Amul Gold Milk 1L",
+          "quantity": 1,
+          "price": 66,
+          "total": 66,
+          "gstRate": 0,
+          "gstAmount": 0
+        },
+        {
+          "productId": "p5",
+          "name": "Surf Excel Easy Wash 1kg",
+          "quantity": 1,
+          "price": 140,
+          "total": 140,
+          "gstRate": 12,
+          "gstAmount": 17
+        },
+        {
+          "productId": "p2",
+          "name": "Aashirvaad Shudh Chakki Atta 5kg",
+          "quantity": 1,
+          "price": 260,
+          "total": 260,
+          "gstRate": 5,
+          "gstAmount": 13
+        }
+      ],
+      "subtotal": 466,
+      "tax": 30,
+      "total": 496,
+      "status": "UNPAID"
+    },
+    {
+      "id": "inv15",
+      "invoiceNumber": "VM-1015",
+      "customerName": "Sanjay Desai",
+      "customerPhone": "+91 82339 35863",
+      "date": "2026-06-28T11:28:42.312Z",
+      "products": [
+        {
+          "productId": "p6",
+          "name": "Maggi 2-Min Noodles 12-Pack",
+          "quantity": 1,
+          "price": 168,
+          "total": 168,
+          "gstRate": 12,
+          "gstAmount": 20
+        },
+        {
+          "productId": "p10",
+          "name": "Cinthol Lime Soap 4-pack",
+          "quantity": 2,
+          "price": 145,
+          "total": 290,
+          "gstRate": 12,
+          "gstAmount": 35
+        }
+      ],
+      "subtotal": 458,
+      "tax": 55,
+      "total": 513,
+      "status": "PAID"
+    },
+    {
+      "id": "inv24",
+      "invoiceNumber": "VM-1024",
+      "customerName": "Sunita Singh",
+      "customerPhone": "+91 70998 12363",
+      "date": "2026-06-28T03:26:42.312Z",
+      "products": [
+        {
+          "productId": "p6",
+          "name": "Maggi 2-Min Noodles 12-Pack",
+          "quantity": 2,
+          "price": 168,
+          "total": 336,
+          "gstRate": 12,
+          "gstAmount": 40
+        },
+        {
+          "productId": "p5",
+          "name": "Surf Excel Easy Wash 1kg",
+          "quantity": 1,
+          "price": 140,
+          "total": 140,
+          "gstRate": 12,
+          "gstAmount": 17
+        },
+        {
+          "productId": "p4",
+          "name": "Tata Salt 1kg",
+          "quantity": 1,
+          "price": 28,
+          "total": 28,
+          "gstRate": 12,
+          "gstAmount": 3
+        }
+      ],
+      "subtotal": 504,
+      "tax": 60,
+      "total": 564,
+      "status": "PAID"
+    },
+    {
+      "id": "inv55",
+      "invoiceNumber": "VM-1055",
+      "customerName": "Abhishek Narayanan",
+      "customerPhone": "+91 93937 80168",
+      "date": "2026-06-27T21:55:42.313Z",
+      "products": [
+        {
+          "productId": "p7",
+          "name": "Taj Mahal Tea 500g",
+          "quantity": 2,
+          "price": 340,
+          "total": 680,
+          "gstRate": 12,
+          "gstAmount": 82
+        },
+        {
+          "productId": "p1",
+          "name": "Amul Gold Milk 1L",
+          "quantity": 2,
+          "price": 66,
+          "total": 132,
+          "gstRate": 0,
+          "gstAmount": 0
+        },
+        {
+          "productId": "p2",
+          "name": "Aashirvaad Shudh Chakki Atta 5kg",
+          "quantity": 1,
+          "price": 260,
+          "total": 260,
+          "gstRate": 5,
+          "gstAmount": 13
+        }
+      ],
+      "subtotal": 1072,
+      "tax": 95,
+      "total": 1167,
+      "status": "PAID"
+    },
+    {
+      "id": "inv56",
+      "invoiceNumber": "VM-1056",
+      "customerName": "Amit Sharma",
+      "customerPhone": "+91 97654 32109",
+      "date": "2026-06-27T07:25:42.313Z",
+      "products": [
+        {
+          "productId": "p7",
+          "name": "Taj Mahal Tea 500g",
+          "quantity": 2,
+          "price": 340,
+          "total": 680,
+          "gstRate": 12,
+          "gstAmount": 82
+        },
+        {
+          "productId": "p2",
+          "name": "Aashirvaad Shudh Chakki Atta 5kg",
+          "quantity": 1,
+          "price": 260,
+          "total": 260,
+          "gstRate": 5,
+          "gstAmount": 13
+        },
+        {
+          "productId": "p1",
+          "name": "Amul Gold Milk 1L",
+          "quantity": 2,
+          "price": 66,
+          "total": 132,
+          "gstRate": 0,
+          "gstAmount": 0
+        }
+      ],
+      "subtotal": 1072,
+      "tax": 95,
+      "total": 1167,
+      "status": "PAID"
+    },
+    {
+      "id": "inv30",
+      "invoiceNumber": "VM-1030",
+      "customerName": "Arjun Nair",
+      "customerPhone": "+91 91495 32350",
+      "date": "2026-06-26T18:28:42.312Z",
+      "products": [
+        {
+          "productId": "p7",
+          "name": "Taj Mahal Tea 500g",
+          "quantity": 2,
+          "price": 340,
+          "total": 680,
+          "gstRate": 12,
+          "gstAmount": 82
+        },
+        {
+          "productId": "p9",
+          "name": "Dettol Liquid Handwash 200ml",
+          "quantity": 2,
+          "price": 99,
+          "total": 198,
+          "gstRate": 12,
+          "gstAmount": 24
+        }
+      ],
+      "subtotal": 878,
+      "tax": 106,
+      "total": 984,
+      "status": "PAID"
+    },
+    {
+      "id": "inv1",
+      "invoiceNumber": "VM-1001",
+      "customerName": "Nisha Choudhary",
+      "customerPhone": "+91 79604 13837",
+      "date": "2026-06-26T18:20:42.312Z",
+      "products": [
+        {
+          "productId": "p1",
+          "name": "Amul Gold Milk 1L",
+          "quantity": 2,
+          "price": 66,
+          "total": 132,
+          "gstRate": 0,
+          "gstAmount": 0
+        },
+        {
+          "productId": "p7",
+          "name": "Taj Mahal Tea 500g",
+          "quantity": 2,
+          "price": 340,
+          "total": 680,
+          "gstRate": 12,
+          "gstAmount": 82
+        },
+        {
+          "productId": "p10",
+          "name": "Cinthol Lime Soap 4-pack",
+          "quantity": 1,
+          "price": 145,
+          "total": 145,
+          "gstRate": 12,
+          "gstAmount": 17
+        }
+      ],
+      "subtotal": 957,
+      "tax": 99,
+      "total": 1056,
+      "status": "PAID"
+    },
+    {
+      "id": "inv48",
+      "invoiceNumber": "VM-1048",
+      "customerName": "Shalini Dutta",
+      "customerPhone": "+91 83269 40318",
+      "date": "2026-06-26T18:03:42.313Z",
+      "products": [
+        {
+          "productId": "p4",
+          "name": "Tata Salt 1kg",
+          "quantity": 1,
+          "price": 28,
+          "total": 28,
+          "gstRate": 12,
+          "gstAmount": 3
+        }
+      ],
+      "subtotal": 28,
+      "tax": 3,
+      "total": 31,
+      "status": "PAID"
+    },
+    {
+      "id": "inv9",
+      "invoiceNumber": "VM-1009",
+      "customerName": "Sunita Kumar",
+      "customerPhone": "+91 80748 91769",
+      "date": "2026-06-26T10:35:42.312Z",
+      "products": [
+        {
+          "productId": "p9",
+          "name": "Dettol Liquid Handwash 200ml",
+          "quantity": 1,
+          "price": 99,
+          "total": 99,
+          "gstRate": 12,
+          "gstAmount": 12
+        }
+      ],
+      "subtotal": 99,
+      "tax": 12,
+      "total": 111,
+      "status": "PAID"
+    },
+    {
+      "id": "inv28",
+      "invoiceNumber": "VM-1028",
+      "customerName": "Nisha Choudhary",
+      "customerPhone": "+91 79604 13837",
+      "date": "2026-06-26T06:05:42.312Z",
+      "products": [
+        {
+          "productId": "p8",
+          "name": "Madhur Pure Sugar 1kg",
+          "quantity": 2,
+          "price": 48,
+          "total": 96,
+          "gstRate": 5,
+          "gstAmount": 5
+        },
+        {
+          "productId": "p2",
+          "name": "Aashirvaad Shudh Chakki Atta 5kg",
+          "quantity": 2,
+          "price": 260,
+          "total": 520,
+          "gstRate": 5,
+          "gstAmount": 26
+        }
+      ],
+      "subtotal": 616,
+      "tax": 31,
+      "total": 647,
+      "status": "UNPAID"
+    },
+    {
+      "id": "inv52",
+      "invoiceNumber": "VM-1052",
+      "customerName": "Priya Patel",
+      "customerPhone": "+91 98123 45678",
+      "date": "2026-06-25T22:49:42.313Z",
+      "products": [
+        {
+          "productId": "p8",
+          "name": "Madhur Pure Sugar 1kg",
+          "quantity": 2,
+          "price": 48,
+          "total": 96,
+          "gstRate": 5,
+          "gstAmount": 5
+        },
+        {
+          "productId": "p3",
+          "name": "Fortune Soya Health Oil 1L",
+          "quantity": 2,
+          "price": 145,
+          "total": 290,
+          "gstRate": 12,
+          "gstAmount": 35
+        },
+        {
+          "productId": "p2",
+          "name": "Aashirvaad Shudh Chakki Atta 5kg",
+          "quantity": 2,
+          "price": 260,
+          "total": 520,
+          "gstRate": 5,
+          "gstAmount": 26
+        }
+      ],
+      "subtotal": 906,
+      "tax": 66,
+      "total": 972,
+      "status": "PAID"
+    },
+    {
+      "id": "inv67",
+      "invoiceNumber": "VM-1067",
+      "customerName": "Manish Nair",
+      "customerPhone": "+91 89965 67913",
+      "date": "2026-06-24T09:39:42.313Z",
+      "products": [
+        {
+          "productId": "p8",
+          "name": "Madhur Pure Sugar 1kg",
+          "quantity": 1,
+          "price": 48,
+          "total": 48,
+          "gstRate": 5,
+          "gstAmount": 2
+        },
+        {
+          "productId": "p3",
+          "name": "Fortune Soya Health Oil 1L",
+          "quantity": 2,
+          "price": 145,
+          "total": 290,
+          "gstRate": 12,
+          "gstAmount": 35
+        }
+      ],
+      "subtotal": 338,
+      "tax": 37,
+      "total": 375,
+      "status": "UNPAID"
+    },
+    {
+      "id": "inv26",
+      "invoiceNumber": "VM-1026",
+      "customerName": "Priya Patel",
+      "customerPhone": "+91 98123 45678",
+      "date": "2026-06-24T07:17:42.312Z",
+      "products": [
+        {
+          "productId": "p6",
+          "name": "Maggi 2-Min Noodles 12-Pack",
+          "quantity": 2,
+          "price": 168,
+          "total": 336,
+          "gstRate": 12,
+          "gstAmount": 40
+        },
+        {
+          "productId": "p4",
+          "name": "Tata Salt 1kg",
+          "quantity": 2,
+          "price": 28,
+          "total": 56,
+          "gstRate": 12,
+          "gstAmount": 7
+        },
+        {
+          "productId": "p1",
+          "name": "Amul Gold Milk 1L",
+          "quantity": 1,
+          "price": 66,
+          "total": 66,
+          "gstRate": 0,
+          "gstAmount": 0
+        }
+      ],
+      "subtotal": 458,
+      "tax": 47,
+      "total": 505,
+      "status": "PAID"
+    },
+    {
+      "id": "inv36",
+      "invoiceNumber": "VM-1036",
+      "customerName": "Priya Patel",
+      "customerPhone": "+91 98123 45678",
+      "date": "2026-06-23T23:40:42.312Z",
+      "products": [
+        {
+          "productId": "p2",
+          "name": "Aashirvaad Shudh Chakki Atta 5kg",
+          "quantity": 2,
+          "price": 260,
+          "total": 520,
+          "gstRate": 5,
+          "gstAmount": 26
+        },
+        {
+          "productId": "p4",
+          "name": "Tata Salt 1kg",
+          "quantity": 2,
+          "price": 28,
+          "total": 56,
+          "gstRate": 12,
+          "gstAmount": 7
+        },
+        {
+          "productId": "p9",
+          "name": "Dettol Liquid Handwash 200ml",
+          "quantity": 2,
+          "price": 99,
+          "total": 198,
+          "gstRate": 12,
+          "gstAmount": 24
+        }
+      ],
+      "subtotal": 774,
+      "tax": 57,
+      "total": 831,
+      "status": "PAID"
+    },
+    {
+      "id": "inv49",
+      "invoiceNumber": "VM-1049",
+      "customerName": "Manoj Mishra",
+      "customerPhone": "+91 75001 61717",
+      "date": "2026-06-23T14:37:42.313Z",
+      "products": [
+        {
+          "productId": "p1",
+          "name": "Amul Gold Milk 1L",
+          "quantity": 2,
+          "price": 66,
+          "total": 132,
+          "gstRate": 0,
+          "gstAmount": 0
+        },
+        {
+          "productId": "p9",
+          "name": "Dettol Liquid Handwash 200ml",
+          "quantity": 2,
+          "price": 99,
+          "total": 198,
+          "gstRate": 12,
+          "gstAmount": 24
+        }
+      ],
+      "subtotal": 330,
+      "tax": 24,
+      "total": 354,
+      "status": "PAID"
+    },
+    {
+      "id": "inv18",
+      "invoiceNumber": "VM-1018",
+      "customerName": "Arjun Nair",
+      "customerPhone": "+91 91495 32350",
+      "date": "2026-06-23T12:29:42.312Z",
+      "products": [
+        {
+          "productId": "p4",
+          "name": "Tata Salt 1kg",
+          "quantity": 1,
+          "price": 28,
+          "total": 28,
+          "gstRate": 12,
+          "gstAmount": 3
+        },
+        {
+          "productId": "p3",
+          "name": "Fortune Soya Health Oil 1L",
+          "quantity": 1,
+          "price": 145,
+          "total": 145,
+          "gstRate": 12,
+          "gstAmount": 17
+        },
+        {
+          "productId": "p1",
+          "name": "Amul Gold Milk 1L",
+          "quantity": 2,
+          "price": 66,
+          "total": 132,
+          "gstRate": 0,
+          "gstAmount": 0
+        }
+      ],
+      "subtotal": 305,
+      "tax": 20,
+      "total": 325,
+      "status": "PAID"
+    },
+    {
+      "id": "inv62",
+      "invoiceNumber": "VM-1062",
+      "customerName": "Amit Sharma",
+      "customerPhone": "+91 97654 32109",
+      "date": "2026-06-23T01:24:42.313Z",
+      "products": [
+        {
+          "productId": "p10",
+          "name": "Cinthol Lime Soap 4-pack",
+          "quantity": 2,
+          "price": 145,
+          "total": 290,
+          "gstRate": 12,
+          "gstAmount": 35
+        }
+      ],
+      "subtotal": 290,
+      "tax": 35,
+      "total": 325,
+      "status": "PAID"
+    },
+    {
+      "id": "inv39",
+      "invoiceNumber": "VM-1039",
+      "customerName": "Vikram Yadav",
+      "customerPhone": "+91 98879 84037",
+      "date": "2026-06-21T09:53:42.312Z",
+      "products": [
+        {
+          "productId": "p1",
+          "name": "Amul Gold Milk 1L",
+          "quantity": 1,
+          "price": 66,
+          "total": 66,
+          "gstRate": 0,
+          "gstAmount": 0
+        },
+        {
+          "productId": "p4",
+          "name": "Tata Salt 1kg",
+          "quantity": 1,
+          "price": 28,
+          "total": 28,
+          "gstRate": 12,
+          "gstAmount": 3
+        }
+      ],
+      "subtotal": 94,
+      "tax": 3,
+      "total": 97,
+      "status": "PAID"
+    },
+    {
+      "id": "inv74",
+      "invoiceNumber": "VM-1074",
+      "customerName": "Manish Patel",
+      "customerPhone": "+91 95976 35196",
+      "date": "2026-06-20T09:40:42.313Z",
+      "products": [
+        {
+          "productId": "p10",
+          "name": "Cinthol Lime Soap 4-pack",
+          "quantity": 1,
+          "price": 145,
+          "total": 145,
+          "gstRate": 12,
+          "gstAmount": 17
+        },
+        {
+          "productId": "p9",
+          "name": "Dettol Liquid Handwash 200ml",
+          "quantity": 2,
+          "price": 99,
+          "total": 198,
+          "gstRate": 12,
+          "gstAmount": 24
+        },
+        {
+          "productId": "p8",
+          "name": "Madhur Pure Sugar 1kg",
+          "quantity": 1,
+          "price": 48,
+          "total": 48,
+          "gstRate": 5,
+          "gstAmount": 2
+        }
+      ],
+      "subtotal": 391,
+      "tax": 43,
+      "total": 434,
+      "status": "PAID"
+    },
+    {
+      "id": "inv12",
+      "invoiceNumber": "VM-1012",
+      "customerName": "Sanjay Mishra",
+      "customerPhone": "+91 96254 94310",
+      "date": "2026-06-18T21:35:42.312Z",
+      "products": [
+        {
+          "productId": "p1",
+          "name": "Amul Gold Milk 1L",
+          "quantity": 1,
+          "price": 66,
+          "total": 66,
+          "gstRate": 0,
+          "gstAmount": 0
+        }
+      ],
+      "subtotal": 66,
+      "tax": 0,
+      "total": 66,
+      "status": "PAID"
+    },
+    {
+      "id": "inv57",
+      "invoiceNumber": "VM-1057",
+      "customerName": "Arjun Shenoy",
+      "customerPhone": "+91 75661 15105",
+      "date": "2026-06-18T09:07:42.313Z",
+      "products": [
+        {
+          "productId": "p4",
+          "name": "Tata Salt 1kg",
+          "quantity": 1,
+          "price": 28,
+          "total": 28,
+          "gstRate": 12,
+          "gstAmount": 3
+        },
+        {
+          "productId": "p2",
+          "name": "Aashirvaad Shudh Chakki Atta 5kg",
+          "quantity": 2,
+          "price": 260,
+          "total": 520,
+          "gstRate": 5,
+          "gstAmount": 26
+        }
+      ],
+      "subtotal": 548,
+      "tax": 29,
+      "total": 577,
+      "status": "PAID"
+    },
+    {
+      "id": "inv17",
+      "invoiceNumber": "VM-1017",
+      "customerName": "Alok Saxena",
+      "customerPhone": "+91 98708 10502",
+      "date": "2026-06-17T04:50:42.312Z",
+      "products": [
+        {
+          "productId": "p1",
+          "name": "Amul Gold Milk 1L",
+          "quantity": 2,
+          "price": 66,
+          "total": 132,
+          "gstRate": 0,
+          "gstAmount": 0
+        },
+        {
+          "productId": "p4",
+          "name": "Tata Salt 1kg",
+          "quantity": 1,
+          "price": 28,
+          "total": 28,
+          "gstRate": 12,
+          "gstAmount": 3
+        }
+      ],
+      "subtotal": 160,
+      "tax": 3,
+      "total": 163,
+      "status": "PAID"
+    },
+    {
+      "id": "inv31",
+      "invoiceNumber": "VM-1031",
+      "customerName": "Gaurav Bose",
+      "customerPhone": "+91 90066 50663",
+      "date": "2026-06-15T20:22:42.312Z",
+      "products": [
+        {
+          "productId": "p4",
+          "name": "Tata Salt 1kg",
+          "quantity": 1,
+          "price": 28,
+          "total": 28,
+          "gstRate": 12,
+          "gstAmount": 3
+        },
+        {
+          "productId": "p7",
+          "name": "Taj Mahal Tea 500g",
+          "quantity": 2,
+          "price": 340,
+          "total": 680,
+          "gstRate": 12,
+          "gstAmount": 82
+        }
+      ],
+      "subtotal": 708,
+      "tax": 85,
+      "total": 793,
+      "status": "PAID"
+    },
+    {
+      "id": "inv47",
+      "invoiceNumber": "VM-1047",
+      "customerName": "Sunita Singh",
+      "customerPhone": "+91 70998 12363",
+      "date": "2026-06-15T19:17:42.313Z",
+      "products": [
+        {
+          "productId": "p6",
+          "name": "Maggi 2-Min Noodles 12-Pack",
+          "quantity": 1,
+          "price": 168,
+          "total": 168,
+          "gstRate": 12,
+          "gstAmount": 20
+        },
+        {
+          "productId": "p2",
+          "name": "Aashirvaad Shudh Chakki Atta 5kg",
+          "quantity": 1,
+          "price": 260,
+          "total": 260,
+          "gstRate": 5,
+          "gstAmount": 13
+        },
+        {
+          "productId": "p1",
+          "name": "Amul Gold Milk 1L",
+          "quantity": 1,
+          "price": 66,
+          "total": 66,
+          "gstRate": 0,
+          "gstAmount": 0
+        }
+      ],
+      "subtotal": 494,
+      "tax": 33,
+      "total": 527,
+      "status": "PAID"
+    },
+    {
+      "id": "inv40",
+      "invoiceNumber": "VM-1040",
+      "customerName": "Sneha Dubey",
+      "customerPhone": "+91 89456 04595",
+      "date": "2026-06-15T05:39:42.312Z",
+      "products": [
+        {
+          "productId": "p1",
+          "name": "Amul Gold Milk 1L",
+          "quantity": 1,
+          "price": 66,
+          "total": 66,
+          "gstRate": 0,
+          "gstAmount": 0
+        },
+        {
+          "productId": "p9",
+          "name": "Dettol Liquid Handwash 200ml",
+          "quantity": 1,
+          "price": 99,
+          "total": 99,
+          "gstRate": 12,
+          "gstAmount": 12
+        }
+      ],
+      "subtotal": 165,
+      "tax": 12,
+      "total": 177,
+      "status": "PAID"
+    },
+    {
+      "id": "inv29",
+      "invoiceNumber": "VM-1029",
+      "customerName": "Kartik Kumar",
+      "customerPhone": "+91 78340 83030",
+      "date": "2026-06-10T17:53:42.312Z",
+      "products": [
+        {
+          "productId": "p10",
+          "name": "Cinthol Lime Soap 4-pack",
+          "quantity": 1,
+          "price": 145,
+          "total": 145,
+          "gstRate": 12,
+          "gstAmount": 17
+        }
+      ],
+      "subtotal": 145,
+      "tax": 17,
+      "total": 162,
+      "status": "PAID"
+    }
+  ],
+  "users": [
+    {
+      "id": "u_owner",
+      "username": "owner",
+      "passwordHash": "8681e1866388ffc736551b14cb6982f6e9b8602b667eef090d8502f0fc9e66ff",
+      "salt": "demo_salt",
+      "name": "sampath (Owner)",
+      "role": "Business Owner",
+      "email": "owner@vyaparamitra.com"
+    },
+    {
+      "id": "u_manager",
+      "username": "manager",
+      "passwordHash": "8681e1866388ffc736551b14cb6982f6e9b8602b667eef090d8502f0fc9e66ff",
+      "salt": "demo_salt",
+      "name": "Karan Singh",
+      "role": "Manager",
+      "email": "manager@vyaparamitra.com"
+    },
+    {
+      "id": "u_employee",
+      "username": "employee",
+      "passwordHash": "8681e1866388ffc736551b14cb6982f6e9b8602b667eef090d8502f0fc9e66ff",
+      "salt": "demo_salt",
+      "name": "Rahul Verma",
+      "role": "Employee",
+      "email": "employee@vyaparamitra.com"
+    },
+    {
+      "id": "u_1783360529853",
+      "username": "dD",
+      "passwordHash": "d8c8508cb440a2f9a6fcb1e9779130b4b7b242cea69d4aec3fa863e7dbbf5e65d6182a82acba3f174a9b513d1979a8f4f7edf19a7aa10c2a41b2aec021733a62",
+      "salt": "72513600b3240f9b9dc2a4fac166715c",
+      "name": "df",
+      "role": "Business Owner",
+      "email": "dfsf@gmail.com"
+    },
+    {
+      "id": "u_1783360925265",
+      "username": "sf",
+      "passwordHash": "33f902c8b5c1ee861d9fbc543099f18f32daa65f688cc36e39a365c508f3b3aa57625a7282ec05cfd224eafb97b6a6b7c6c582c6c0058de1cc567ccd9d4eb3e2",
+      "salt": "68083bc98fbda0e2e60747d7c12d5ccf",
+      "name": "fad",
+      "role": "Business Owner",
+      "email": "djfabnkw@gmail"
+    }
+  ],
+  "metadata": {
+    "businessType": "GROCERY",
+    "businessName": "NOT",
+    "ownerName": "sampath",
+    "address": "Plot 42, HSR Layout, Sector 3, Bengalur, Karnataka, India",
+    "phone": "+91 99999 99999",
+    "gstNumber": "29AAABP4211G1Z3",
+    "currency": "INR (₹)",
+    "language": "English",
+    "employees": 5,
+    "setupCompleted": true
+  }
+}
